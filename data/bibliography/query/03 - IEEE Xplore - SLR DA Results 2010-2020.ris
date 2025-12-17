@@ -1,0 +1,175 @@
+TY  - JOUR
+TI  - AI-Assisted Framework for Green-Routing and Load Balancing in Hybrid Software-Defined Networking: Proposal, Challenges and Future Perspective
+AU  - R. Etengu
+AU  - S. C. Tan
+AU  - L. C. Kwang
+AU  - F. M. Abbou
+AU  - T. C. Chuah
+T2  - IEEE Access
+AB  - The explosive growth of IP networks, the advent of cloud computing, and the rapid progress in wireless communications witnessed today reflect significant progress towards meeting the explosive data traffic demands. Consequently, communications service providers should deploy efficient and intelligent network solutions to accommodate the huge traffic demands and to ease the capacity pressure on their network infrastructure. Besides, vendors should develop novel energy-efficient networks to reduce network utility costs and carbon footprint. Software-defined networking (SDN) provides a suitable solution, however, complete SDN deployment is currently unachievable in the short-term. An alternative is the hybrid SDN/open shortest path forwarding (OSPF) network, which allows the deployment of SDN in legacy networks. Nevertheless, hybrid SDN/OSPF also faces several technical, economic and organizational challenges. Although many energy-efficiency routing solutions exist in hybrid SDN/OSPF networks, they are generic and reactive by design. Moreover, these solutions are characterized by manual control plane forwarding configurations, leading to sub-optimal performance. The recent promising combination of SDN and artificial intelligence (AI) techniques such as machine learning (ML) and deep learning (DL) in traffic management and control provides tremendous opportunities. In this paper, we first provide a review of the most recent optimization approaches for global energy-efficient routing and load balancing. Next, we investigate a scalable and intelligent integrated architectural framework that leverages deep reinforcement learning (DRL) techniques to realize predictive and rate adaptive energy-efficient routing with guaranteed quality of service (QoS), in transitional hybrid SDN/OSPF networks. Based on the need to minimize global network energy consumption and improve link performance, this paper provides key research insights into the current progress in hybrid SDN/OSPF, ML and AI in the hope of stimulating more research.
+DA  - 2020///
+PY  - 2020
+DO  - 10.1109/ACCESS.2020.3022291
+VL  - 8
+SP  - 166384
+EP  - 166441
+J2  - IEEE Access
+SN  - 2169-3536
+KW  - artificial intelligence
+KW  - Communication networks
+KW  - deep reinforcement learning
+KW  - energy-aware routing
+KW  - Heuristic algorithms
+KW  - Hybrid SDN/OSPF
+KW  - Load management
+KW  - machine learning
+KW  - Machine learning
+KW  - Optimization
+KW  - quality of service
+KW  - Quality of service
+KW  - Routing
+KW  - scalable
+KW  - traffic engineering
+ER  - 
+
+TY  - JOUR
+TI  - Fast Defense System Against Attacks in Software Defined Networks
+AU  - M. V. O. De Assis
+AU  - M. P. Novaes
+AU  - C. B. Zerbini
+AU  - L. F. Carvalho
+AU  - T. Abrãao
+AU  - M. L. Proença
+T2  - IEEE Access
+AB  - With the ever-growing data traffic in computer networks nowadays, the management of large-scale networks is a challenge for guaranteeing the quality of the provided services. This is due to the increasingly usage of connected applications, such as Internet of Things and cloud computing environments. Software-defined networking (SDN) is a new paradigm that aims to make this management process easier by centralizing the configuration of all network devices into a single programmable central controller. However, as any centralized service, this architecture is susceptible to security vulnerabilities, such as distributed denial of service (DDoS) and port scan attacks. Thus, security methods are necessary to guarantee the normal operation of SDN's central controller. Furthermore, networks are transporting an increasingly amount of information day by day, which could mean data loss in case of long network unavailability. For this reason, security mechanisms must operate online, with fast-responding countermeasures to mitigate the impact of the detected attacks over the SDN. In this paper, we present a fast SDN defense system against DDoS and port scan attacks, which runs directly into the central controller and uses a game theoretical approach for attack mitigation. For the detection, we compare three different approaches, particle swarm optimization, multi-layer perceptron neural network, and discrete wavelet transform. We test our approach over IP flow data generated over Mininet network emulator, along with floodlight controller, and the presented defense system achieved good outcomes for both detection and mitigation processes.
+DA  - 2018///
+PY  - 2018
+DO  - 10.1109/ACCESS.2018.2878576
+VL  - 6
+SP  - 69620
+EP  - 69639
+J2  - IEEE Access
+SN  - 2169-3536
+KW  - Anomaly detection
+KW  - Computer crime
+KW  - DDoS
+KW  - Discrete wavelet transforms
+KW  - DWT
+KW  - Internet of Things
+KW  - IP networks
+KW  - MLP
+KW  - port scan
+KW  - PSO
+KW  - SDN
+KW  - Software
+ER  - 
+
+TY  - JOUR
+TI  - A Game Theoretical Based System Using Holt-Winters and Genetic Algorithm With Fuzzy Logic for DoS/DDoS Mitigation on SDN Networks
+AU  - M. V. O. De Assis
+AU  - A. H. Hamamoto
+AU  - T. Abrão
+AU  - M. L. Proença
+T2  - IEEE Access
+AB  - The ever expanding the usage of cloud computing environments, connected applications and Internet of Things-based devices have progressively increased the amount of data that travels through our networks. Software-defined network (SDN) is an emergent paradigm that aims to support next-generation networks through its flexible and powerful management mechanisms. One of the biggest threats faced by these services nowadays is security management. Attacks based on the denial of service (DoS) are particularly efficient against this paradigm due to its centralized control characteristic. Once this controlling system receives a massive amount of malicious requests, the overall performance of the network operation is impaired. Although several researches propose to address this problem, most of them are reactive approaches, detecting the attacks and warning the network administrators, i.e., after the network is already compromised. This paper presents an autonomic DoS/DDoS defensive approach for SDNs called Game Theory (GT)-Holt-Winters for Digital Signature (HWDS), which unites the anomaly detection and identification provided by an HWDS system with an autonomous decision-making model based on GT. Real collected data and simulated attacks are used by the system to measure its effectiveness and efficiency. Furthermore, we also use a heuristic Fuzzy-GADS method for anomaly detection instead of HWDS, aiming to compare the achieved performance and evaluate the behavior of the presented game theoretical approaches a standalone mitigation module.
+DA  - 2017///
+PY  - 2017
+DO  - 10.1109/ACCESS.2017.2702341
+VL  - 5
+SP  - 9485
+EP  - 9496
+J2  - IEEE Access
+SN  - 2169-3536
+KW  - Computer crime
+KW  - denial of service
+KW  - fuzzy logic
+KW  - Fuzzy logic
+KW  - GADS
+KW  - Game theory
+KW  - Games
+KW  - Genetic algorithms
+KW  - HWDS
+KW  - IP networks
+ER  - 
+
+TY  - JOUR
+TI  - 2018 Index IEEE Journal of Selected Topics in Signal Processing Vol. 12
+T2  - IEEE Journal of Selected Topics in Signal Processing
+AB  - This index covers all technical items - papers, correspondence, reviews, etc. - that appeared in this periodical during the year, and items from previous years that were commented upon or corrected in this year. Departments and other items may also be covered if they have been judged to have archival value. The Author Index contains the primary entry for each item, listed under the first author's name. The primary entry includes the co-authors' names, the title of the paper or other item, and its location, specified by the publication abbreviation, year, month, and inclusive pagination. The Subject Index contains entries describing the item under all appropriate subject headings, plus the first author's name, the publication abbreviation, month, and year, and inclusive pages. Note that the item title is found only under the primary entry in the Author Index.
+DA  - 2018/12//
+PY  - 2018
+DO  - 10.1109/JSTSP.2018.2886649
+VL  - 12
+IS  - 6
+SP  - 1638
+EP  - 1656
+J2  - IEEE Journal of Selected Topics in Signal Processing
+SN  - 1941-0484
+ER  - 
+
+TY  - CONF
+TI  - Table of Contents
+T2  - 2020 IEEE Intl Conf on Parallel & Distributed Processing with Applications, Big Data & Cloud Computing, Sustainable Computing & Communications, Social Computing & Networking (ISPA/BDCloud/SocialCom/SustainCom)
+AB  - Presents the table of contents/splash page of the proceedings record.
+C3  - 2020 IEEE Intl Conf on Parallel & Distributed Processing with Applications, Big Data & Cloud Computing, Sustainable Computing & Communications, Social Computing & Networking (ISPA/BDCloud/SocialCom/SustainCom)
+DA  - 2020/12/17/19
+PY  - 2020
+DO  - 10.1109/ISPA-BDCloud-SocialCom-SustainCom51426.2020.00004
+SP  - v
+EP  - xxxiv
+ER  - 
+
+TY  - CONF
+TI  - ICCCA 2018 Paper Presentation
+T2  - 2018 4th International Conference on Computing Communication and Automation (ICCCA)
+AB  - Conference proceedings front matter may contain various advertisements, welcome messages, committee or program information, and other miscellaneous conference information. This may in some cases also include the cover art, table of contents, copyright sta
+C3  - 2018 4th International Conference on Computing Communication and Automation (ICCCA)
+DA  - 2018/12/14/15
+PY  - 2018
+DO  - 10.1109/CCAA.2018.8777625
+SP  - i
+EP  - xv
+SN  - 2642-7354
+ER  - 
+
+TY  - CONF
+TI  - Table of contents
+T2  - 2018 IEEE International Conference on Mechatronics and Automation (ICMA)
+AB  - Presents the table of contents/splash page of the proceedings record.
+C3  - 2018 IEEE International Conference on Mechatronics and Automation (ICMA)
+DA  - 2018/08/05/8
+PY  - 2018
+DO  - 10.1109/ICMA.2018.8484738
+SP  - 1
+EP  - 35
+SN  - 2152-744X
+ER  - 
+
+TY  - JOUR
+TI  - 2018 Index IEEE Transactions on Power Delivery Vol. 33
+T2  - IEEE Transactions on Power Delivery
+AB  - Presents the 2018 subject/author index for this publication.
+DA  - 2018/12//
+PY  - 2018
+DO  - 10.1109/TPWRD.2018.2890521
+VL  - 33
+IS  - 6
+SP  - 3271
+EP  - 3325
+J2  - IEEE Transactions on Power Delivery
+SN  - 1937-4208
+ER  - 
+
+TY  - CONF
+TI  - Final Program
+T2  - 2020 International Conference on Unmanned Aircraft Systems (ICUAS)
+AB  - Provides a schedule of conference events and a listing of which papers were presented in each session.
+C3  - 2020 International Conference on Unmanned Aircraft Systems (ICUAS)
+DA  - 2020/09/01/4
+PY  - 2020
+DO  - 10.1109/ICUAS48674.2020.9214039
+SP  - i
+EP  - cxxvi
+SN  - 2575-7296
+ER  - 
+

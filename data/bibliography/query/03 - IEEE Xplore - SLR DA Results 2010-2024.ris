@@ -1,0 +1,528 @@
+TY  - JOUR
+TI  - AI-Assisted Framework for Green-Routing and Load Balancing in Hybrid Software-Defined Networking: Proposal, Challenges and Future Perspective
+AU  - R. Etengu
+AU  - S. C. Tan
+AU  - L. C. Kwang
+AU  - F. M. Abbou
+AU  - T. C. Chuah
+T2  - IEEE Access
+AB  - The explosive growth of IP networks, the advent of cloud computing, and the rapid progress in wireless communications witnessed today reflect significant progress towards meeting the explosive data traffic demands. Consequently, communications service providers should deploy efficient and intelligent network solutions to accommodate the huge traffic demands and to ease the capacity pressure on their network infrastructure. Besides, vendors should develop novel energy-efficient networks to reduce network utility costs and carbon footprint. Software-defined networking (SDN) provides a suitable solution, however, complete SDN deployment is currently unachievable in the short-term. An alternative is the hybrid SDN/open shortest path forwarding (OSPF) network, which allows the deployment of SDN in legacy networks. Nevertheless, hybrid SDN/OSPF also faces several technical, economic and organizational challenges. Although many energy-efficiency routing solutions exist in hybrid SDN/OSPF networks, they are generic and reactive by design. Moreover, these solutions are characterized by manual control plane forwarding configurations, leading to sub-optimal performance. The recent promising combination of SDN and artificial intelligence (AI) techniques such as machine learning (ML) and deep learning (DL) in traffic management and control provides tremendous opportunities. In this paper, we first provide a review of the most recent optimization approaches for global energy-efficient routing and load balancing. Next, we investigate a scalable and intelligent integrated architectural framework that leverages deep reinforcement learning (DRL) techniques to realize predictive and rate adaptive energy-efficient routing with guaranteed quality of service (QoS), in transitional hybrid SDN/OSPF networks. Based on the need to minimize global network energy consumption and improve link performance, this paper provides key research insights into the current progress in hybrid SDN/OSPF, ML and AI in the hope of stimulating more research.
+DA  - 2020///
+PY  - 2020
+DO  - 10.1109/ACCESS.2020.3022291
+VL  - 8
+SP  - 166384
+EP  - 166441
+J2  - IEEE Access
+SN  - 2169-3536
+KW  - artificial intelligence
+KW  - Communication networks
+KW  - deep reinforcement learning
+KW  - energy-aware routing
+KW  - Heuristic algorithms
+KW  - Hybrid SDN/OSPF
+KW  - Load management
+KW  - machine learning
+KW  - Machine learning
+KW  - Optimization
+KW  - quality of service
+KW  - Quality of service
+KW  - Routing
+KW  - scalable
+KW  - traffic engineering
+ER  - 
+
+TY  - JOUR
+TI  - Fast Defense System Against Attacks in Software Defined Networks
+AU  - M. V. O. De Assis
+AU  - M. P. Novaes
+AU  - C. B. Zerbini
+AU  - L. F. Carvalho
+AU  - T. Abrãao
+AU  - M. L. Proença
+T2  - IEEE Access
+AB  - With the ever-growing data traffic in computer networks nowadays, the management of large-scale networks is a challenge for guaranteeing the quality of the provided services. This is due to the increasingly usage of connected applications, such as Internet of Things and cloud computing environments. Software-defined networking (SDN) is a new paradigm that aims to make this management process easier by centralizing the configuration of all network devices into a single programmable central controller. However, as any centralized service, this architecture is susceptible to security vulnerabilities, such as distributed denial of service (DDoS) and port scan attacks. Thus, security methods are necessary to guarantee the normal operation of SDN's central controller. Furthermore, networks are transporting an increasingly amount of information day by day, which could mean data loss in case of long network unavailability. For this reason, security mechanisms must operate online, with fast-responding countermeasures to mitigate the impact of the detected attacks over the SDN. In this paper, we present a fast SDN defense system against DDoS and port scan attacks, which runs directly into the central controller and uses a game theoretical approach for attack mitigation. For the detection, we compare three different approaches, particle swarm optimization, multi-layer perceptron neural network, and discrete wavelet transform. We test our approach over IP flow data generated over Mininet network emulator, along with floodlight controller, and the presented defense system achieved good outcomes for both detection and mitigation processes.
+DA  - 2018///
+PY  - 2018
+DO  - 10.1109/ACCESS.2018.2878576
+VL  - 6
+SP  - 69620
+EP  - 69639
+J2  - IEEE Access
+SN  - 2169-3536
+KW  - Anomaly detection
+KW  - Computer crime
+KW  - DDoS
+KW  - Discrete wavelet transforms
+KW  - DWT
+KW  - Internet of Things
+KW  - IP networks
+KW  - MLP
+KW  - port scan
+KW  - PSO
+KW  - SDN
+KW  - Software
+ER  - 
+
+TY  - JOUR
+TI  - A Game Theoretical Based System Using Holt-Winters and Genetic Algorithm With Fuzzy Logic for DoS/DDoS Mitigation on SDN Networks
+AU  - M. V. O. De Assis
+AU  - A. H. Hamamoto
+AU  - T. Abrão
+AU  - M. L. Proença
+T2  - IEEE Access
+AB  - The ever expanding the usage of cloud computing environments, connected applications and Internet of Things-based devices have progressively increased the amount of data that travels through our networks. Software-defined network (SDN) is an emergent paradigm that aims to support next-generation networks through its flexible and powerful management mechanisms. One of the biggest threats faced by these services nowadays is security management. Attacks based on the denial of service (DoS) are particularly efficient against this paradigm due to its centralized control characteristic. Once this controlling system receives a massive amount of malicious requests, the overall performance of the network operation is impaired. Although several researches propose to address this problem, most of them are reactive approaches, detecting the attacks and warning the network administrators, i.e., after the network is already compromised. This paper presents an autonomic DoS/DDoS defensive approach for SDNs called Game Theory (GT)-Holt-Winters for Digital Signature (HWDS), which unites the anomaly detection and identification provided by an HWDS system with an autonomous decision-making model based on GT. Real collected data and simulated attacks are used by the system to measure its effectiveness and efficiency. Furthermore, we also use a heuristic Fuzzy-GADS method for anomaly detection instead of HWDS, aiming to compare the achieved performance and evaluate the behavior of the presented game theoretical approaches a standalone mitigation module.
+DA  - 2017///
+PY  - 2017
+DO  - 10.1109/ACCESS.2017.2702341
+VL  - 5
+SP  - 9485
+EP  - 9496
+J2  - IEEE Access
+SN  - 2169-3536
+KW  - Computer crime
+KW  - denial of service
+KW  - fuzzy logic
+KW  - Fuzzy logic
+KW  - GADS
+KW  - Game theory
+KW  - Games
+KW  - Genetic algorithms
+KW  - HWDS
+KW  - IP networks
+ER  - 
+
+TY  - JOUR
+TI  - 2018 Index IEEE Journal of Selected Topics in Signal Processing Vol. 12
+T2  - IEEE Journal of Selected Topics in Signal Processing
+AB  - This index covers all technical items - papers, correspondence, reviews, etc. - that appeared in this periodical during the year, and items from previous years that were commented upon or corrected in this year. Departments and other items may also be covered if they have been judged to have archival value. The Author Index contains the primary entry for each item, listed under the first author's name. The primary entry includes the co-authors' names, the title of the paper or other item, and its location, specified by the publication abbreviation, year, month, and inclusive pagination. The Subject Index contains entries describing the item under all appropriate subject headings, plus the first author's name, the publication abbreviation, month, and year, and inclusive pages. Note that the item title is found only under the primary entry in the Author Index.
+DA  - 2018/12//
+PY  - 2018
+DO  - 10.1109/JSTSP.2018.2886649
+VL  - 12
+IS  - 6
+SP  - 1638
+EP  - 1656
+J2  - IEEE Journal of Selected Topics in Signal Processing
+SN  - 1941-0484
+ER  - 
+
+TY  - CONF
+TI  - Table of Contents
+T2  - 2020 IEEE Intl Conf on Parallel & Distributed Processing with Applications, Big Data & Cloud Computing, Sustainable Computing & Communications, Social Computing & Networking (ISPA/BDCloud/SocialCom/SustainCom)
+AB  - Presents the table of contents/splash page of the proceedings record.
+C3  - 2020 IEEE Intl Conf on Parallel & Distributed Processing with Applications, Big Data & Cloud Computing, Sustainable Computing & Communications, Social Computing & Networking (ISPA/BDCloud/SocialCom/SustainCom)
+DA  - 2020/12/17/19
+PY  - 2020
+DO  - 10.1109/ISPA-BDCloud-SocialCom-SustainCom51426.2020.00004
+SP  - v
+EP  - xxxiv
+ER  - 
+
+TY  - CONF
+TI  - ICCCA 2018 Paper Presentation
+T2  - 2018 4th International Conference on Computing Communication and Automation (ICCCA)
+AB  - Conference proceedings front matter may contain various advertisements, welcome messages, committee or program information, and other miscellaneous conference information. This may in some cases also include the cover art, table of contents, copyright sta
+C3  - 2018 4th International Conference on Computing Communication and Automation (ICCCA)
+DA  - 2018/12/14/15
+PY  - 2018
+DO  - 10.1109/CCAA.2018.8777625
+SP  - i
+EP  - xv
+SN  - 2642-7354
+ER  - 
+
+TY  - CONF
+TI  - Table of contents
+T2  - 2018 IEEE International Conference on Mechatronics and Automation (ICMA)
+AB  - Presents the table of contents/splash page of the proceedings record.
+C3  - 2018 IEEE International Conference on Mechatronics and Automation (ICMA)
+DA  - 2018/08/05/8
+PY  - 2018
+DO  - 10.1109/ICMA.2018.8484738
+SP  - 1
+EP  - 35
+SN  - 2152-744X
+ER  - 
+
+TY  - JOUR
+TI  - 2018 Index IEEE Transactions on Power Delivery Vol. 33
+T2  - IEEE Transactions on Power Delivery
+AB  - Presents the 2018 subject/author index for this publication.
+DA  - 2018/12//
+PY  - 2018
+DO  - 10.1109/TPWRD.2018.2890521
+VL  - 33
+IS  - 6
+SP  - 3271
+EP  - 3325
+J2  - IEEE Transactions on Power Delivery
+SN  - 1937-4208
+ER  - 
+
+TY  - CONF
+TI  - Final Program
+T2  - 2020 International Conference on Unmanned Aircraft Systems (ICUAS)
+AB  - Provides a schedule of conference events and a listing of which papers were presented in each session.
+C3  - 2020 International Conference on Unmanned Aircraft Systems (ICUAS)
+DA  - 2020/09/01/4
+PY  - 2020
+DO  - 10.1109/ICUAS48674.2020.9214039
+SP  - i
+EP  - cxxvi
+SN  - 2575-7296
+ER  - 
+
+TY  - JOUR
+TI  - Selecting and Combining UWB Localization Algorithms: Insights and Recommendations From a Multi-Metric Benchmark
+AU  - B. Van Herbruggen
+AU  - J. V. -V. Gerwen
+AU  - S. Luchie
+AU  - Y. Durodié
+AU  - B. Vanderborght
+AU  - M. Aernouts
+AU  - A. Munteanu
+AU  - J. Fontaine
+AU  - E. D. Poorter
+T2  - IEEE Access
+AB  - Ultra-wideband (UWB) localization has emerged in GPS-denied environments as a crucial facilitator for diverse industries, including logistics, healthcare applications, and societal domains. Despite notable progress, UWB algorithms from the scientific literature are often evaluated in isolation in very specific conditions and hence difficult to compare. This paper introduces a novel benchmark platform designed to assess the performance of 11 prominent UWB accuracy-enhancing algorithms, both independently and in combination. A key feature of the platform is its incorporation of multiple diverse evaluation metrics, including mean average error, latency, and spatial error. We showcase the significance of adopting alternative metrics such as spatial error, which often, depending on the use case, offers greater relevance than the prevalently used mean average error. Furthermore, we show that “more is better” does not hold true when combining multiple accuracy-improving algorithms for UWB systems: combining multiple accuracy-improving algorithms reveals instances of diminishing returns and can even result in overall performance decline. Additionally, we caution against blind reliance on accuracy outcomes reported in the scientific literature when designing UWB systems for use cases that are different in terms of requirements or environment. Finally, we also provide algorithmic recommendations for distinct surroundings, exemplary applications, and usage contexts, assisting in driving efficient design in future UWB research and adoption.
+DA  - 2024///
+PY  - 2024
+DO  - 10.1109/ACCESS.2024.3358274
+VL  - 12
+SP  - 16881
+EP  - 16901
+J2  - IEEE Access
+SN  - 2169-3536
+KW  - Benchmark
+KW  - Benchmark testing
+KW  - filters
+KW  - Global Positioning System
+KW  - guidelines
+KW  - Guidelines
+KW  - localization
+KW  - Location awareness
+KW  - LOS/NLOS
+KW  - software
+KW  - Ultra wideband technology
+KW  - ultra-wideband
+KW  - UWB
+ER  - 
+
+TY  - JOUR
+TI  - Frequency Event Detection and Mitigation in Power Systems: A Systematic Literature Review
+AU  - U. Farooq
+AU  - R. B. Bass
+T2  - IEEE Access
+AB  - Modern power systems characterized by complex topologies require accurate situational awareness to maintain an adequate level of reliability. Since they are large and spread over wide geographical areas, it is inevitable that failures will occur. Various generation and transmission disturbances, such as generator and transmission line tripping and load disconnection, give rise to a mismatch between generation and demand, which manifest as frequency events. These events can take the form of negligible frequency deviations or more severe emergencies that can precipitate cascading outages, depending on the severity of the disturbance and efficacy of remedial action schema. The impacts of such events have become more critical recently due to increased levels of renewable penetration and distributed energy resources, which have caused a decline in system synchronous inertia. Due to the repercussions, it is indispensable to arrest such disturbances on time by activating primary frequency control measures. In this paper, a comprehensive systematic literature review is presented on the techniques used for event detection in power systems and the methods of primary frequency response in modern power systems. The paper also highlights the impacts of severe frequency events within power systems.
+DA  - 2022///
+PY  - 2022
+DO  - 10.1109/ACCESS.2022.3180349
+VL  - 10
+SP  - 61494
+EP  - 61519
+J2  - IEEE Access
+SN  - 2169-3536
+KW  - event detection
+KW  - Event detection
+KW  - frequency control
+KW  - Frequency control
+KW  - Frequency measurement
+KW  - low inertia power systems
+KW  - power blackouts
+KW  - Power system disturbance
+KW  - Power system dynamics
+KW  - Power systems
+KW  - Reliability
+KW  - systematic literature review
+KW  - Systematics
+ER  - 
+
+TY  - JOUR
+TI  - A Survey on Multiuser SWIPT Communications for 5G+
+AU  - S. Özyurt
+AU  - A. F. Coşkun
+AU  - S. Büyükçorak
+AU  - G. Karabulut Kurt
+AU  - O. Kucur
+T2  - IEEE Access
+AB  - Increasing number of devices connected to the networks, applications and demands of new generation wireless communications cause very high energy consumption resulting in large amount of carbon emission. Thus, energy harvesting solutions together with accomplishing information transmission are required for energy efficient communications of new wireless communications generations such as 5G and 6G (i.e., 5G+). As such, due to the promise of energy efficient green communications, simultaneous wireless information and power transfer (SWIPT) techniques are expected to be indispensable component of 5G+. In this survey, the literature of multiuser SWIPT communications is reviewed for 5G+. Different multiuser SWIPT scenarios including multi-antenna communications, cooperative communications, network coding, communications security, and unmanned aerial vehicle (UAV)-enabled communication systems based on multiuser diversity and multiple access methods are thoroughly reviewed. The experimental studies are also discussed.
+DA  - 2022///
+PY  - 2022
+DO  - 10.1109/ACCESS.2022.3212774
+VL  - 10
+SP  - 109814
+EP  - 109849
+J2  - IEEE Access
+SN  - 2169-3536
+KW  - 5G mobile communication
+KW  - 6G mobile communication
+KW  - Autonomous aerial vehicles
+KW  - cooperative
+KW  - Energy harvesting
+KW  - MIMO
+KW  - MIMO communication
+KW  - multiple access
+KW  - multiuser
+KW  - multiuser diversity
+KW  - Radio frequency
+KW  - Receiving antennas
+KW  - Relays
+KW  - Simultaneous wireless information and power transfer
+KW  - SWIPT
+KW  - Switches
+KW  - UAV
+KW  - Wireless communication
+KW  - Wireless sensor networks
+ER  - 
+
+TY  - JOUR
+TI  - Improved Brain Tumor Segmentation and Classification in Brain MRI With FCM-SVM: A Diagnostic Approach
+AU  - S. M. Alqhtani
+AU  - T. A. Soomro
+AU  - A. Ali Shah
+AU  - A. Aziz Memon
+AU  - M. Irfan
+AU  - S. Rahman
+AU  - M. Jalalah
+AU  - A. H. M. Almawgani
+AU  - L. A. Bade Eljak
+T2  - IEEE Access
+AB  - Cancer associated with the nervous system and brain tumors ranks among the leading causes of death in various countries. Magnetic resonance imaging (MRI) and computed tomography (CT) capture brain images. MRI is pivotal in diagnosing brain tumors and analyzing other brain disorders. Typically, radiologists or experts manually assess MRI images to detect brain tumors and abnormalities in the early stages for appropriate treatment. However, early brain tumor diagnosis is complex, necessitating computerized methods. This research introduces a novel approach for the automated segmentation of brain tumors and a framework for classifying brain tumor regions. The proposed methods comprise several stages: preprocessing, enhancing the coherence of MRI brain images using Contrast Limited Adaptive Histogram Equalization (CLAHE) and diffusion filtering in the first two steps, followed by the segmentation of the region of interest using the Fuzzy C-Means (FCM) clustering technique in the third step. The last step involves classification using the Support Vector Machine (SVM) classifier. The classifier is applied to different brain tumor types, from meningioma to pituitary tumors, utilizing the CE-MRI database. The proposed method exhibits significantly improved contrast and proves the effectiveness of the classification framework, achieving an average sensitivity of 0.977, specificity of 0.979, accuracy of 0.982, and a Dice score (DSC) of 0.961. Furthermore, this method demonstrates a shorter processing time of 0.42 seconds compared to existing approaches. The performance of this method underscores its significance when compared to state-of-the-art methods in terms of sensitivity, specificity, accuracy, and DSC. For future enhancements, it is possible to standardize the approach by incorporating a set of classifiers to increase the robustness of the brain classification method.
+DA  - 2024///
+PY  - 2024
+DO  - 10.1109/ACCESS.2024.3394541
+VL  - 12
+SP  - 61312
+EP  - 61335
+J2  - IEEE Access
+SN  - 2169-3536
+KW  - Brain
+KW  - Brain tumor
+KW  - classification
+KW  - Computed tomography
+KW  - contrast limited adaptive histogram equalization
+KW  - diffusion filtering
+KW  - Fuzzy C-Means
+KW  - Image segmentation
+KW  - Magnetic resonance imaging
+KW  - Pipelines
+KW  - segmentation
+KW  - support vector machine
+KW  - Support vector machines
+KW  - Tumors
+ER  - 
+
+TY  - JOUR
+TI  - A Comprehensive Survey on Ensemble Learning-Based Intrusion Detection Approaches in Computer Networks
+AU  - T. J. Lucas
+AU  - I. S. de Figueiredo
+AU  - C. A. C. Tojeiro
+AU  - A. M. G. de Almeida
+AU  - R. Scherer
+AU  - J. R. F. Brega
+AU  - J. P. Papa
+AU  - K. A. P. da Costa
+T2  - IEEE Access
+AB  - Machine learning algorithms present a robust alternative for building Intrusion Detection Systems due to their ability to recognize attacks in computer network traffic by recognizing patterns in large amounts of data. Typically, classifiers are trained for this task. Together, ensemble learning algorithms have increased the performance of these detectors, reducing classification errors and allowing computer networks to be more protected. This research presents a comprehensive Systematic Review of the Literature where works related to intrusion detection with ensemble learning were obtained from the most relevant scientific bases. We offer 188 works, several compilations of datasets, classifiers, and ensemble algorithms, and document the experiments that stood out in their performance. A characteristic of this research is its originality. We found two surveys in the literature specifically focusing on the relationship between ensemble techniques and intrusion detection. We present for the last eight years covered by this survey a timeline-based view of the works studied to highlight evolutions and trends. The results obtained by our survey show a growing area, with excellent results in detecting attacks but with needs for improvement in pruning for choosing classifiers, which makes this work unprecedented for this context.
+DA  - 2023///
+PY  - 2023
+DO  - 10.1109/ACCESS.2023.3328535
+VL  - 11
+SP  - 122638
+EP  - 122676
+J2  - IEEE Access
+SN  - 2169-3536
+KW  - Bagging
+KW  - Computer networks
+KW  - Computer security
+KW  - Cybersecurity
+KW  - ensemble learning
+KW  - Ensemble learning
+KW  - Intrusion detection
+KW  - intrusion detection systems
+KW  - machine learning
+KW  - Machine learning
+KW  - Protocols
+KW  - Random forests
+KW  - Surveys
+ER  - 
+
+TY  - CONF
+TI  - SCSE 2022 Conference Proceedings
+T2  - 2022 International Research Conference on Smart Computing and Systems Engineering (SCSE)
+AB  - Presents the introductory welcome message from the conference proceedings. May include the conference officers' congratulations to all involved with the conference event and publication of the proceedings record.
+C3  - 2022 International Research Conference on Smart Computing and Systems Engineering (SCSE)
+DA  - 2022/09/01/1
+PY  - 2022
+DO  - 10.1109/SCSE56529.2022.9905133
+VL  - 5
+SP  - i
+EP  - cdii
+SN  - 2613-8662
+ER  - 
+
+TY  - CONF
+TI  - ICCE-Taiwan 2023 Conference Proceedings
+T2  - 2023 International Conference on Consumer Electronics - Taiwan (ICCE-Taiwan)
+C3  - 2023 International Conference on Consumer Electronics - Taiwan (ICCE-Taiwan)
+DA  - 2023/07/17/19
+PY  - 2023
+DO  - 10.1109/ICCE-Taiwan58799.2023.10226807
+SP  - 1
+EP  - 891
+SN  - 2575-8284
+ER  - 
+
+TY  - CONF
+TI  - Table of Content
+T2  - 2024 International Conference on Communication, Computer Sciences and Engineering (IC3SE)
+C3  - 2024 International Conference on Communication, Computer Sciences and Engineering (IC3SE)
+DA  - 2024/05/09/11
+PY  - 2024
+DO  - 10.1109/IC3SE62002.2024.10592915
+SP  - 1
+EP  - 22
+ER  - 
+
+TY  - CONF
+TI  - ICCPCT 2024 TOC
+T2  - 2024 7th International Conference on Circuit Power and Computing Technologies (ICCPCT)
+C3  - 2024 7th International Conference on Circuit Power and Computing Technologies (ICCPCT)
+DA  - 2024/08/08/9
+PY  - 2024
+DO  - 10.1109/ICCPCT61902.2024.10673098
+VL  - 1
+SP  - i
+EP  - xxxvii
+ER  - 
+
+TY  - CONF
+TI  - APWC 2024 Final Program
+T2  - 2024 IEEE-APS Topical Conference on Antennas and Propagation in Wireless Communications (APWC)
+C3  - 2024 IEEE-APS Topical Conference on Antennas and Propagation in Wireless Communications (APWC)
+DA  - 2024/09/02/6
+PY  - 2024
+DO  - 10.1109/APWC61918.2024.10701920
+SP  - i
+EP  - xliii
+SN  - 2766-287X
+ER  - 
+
+TY  - CONF
+TI  - Papers by Title
+T2  - 2024 11th International Conference on Electrical Engineering, Computer Science and Informatics (EECSI)
+C3  - 2024 11th International Conference on Electrical Engineering, Computer Science and Informatics (EECSI)
+DA  - 2024/09/26/27
+PY  - 2024
+DO  - 10.1109/EECSI63442.2024.10776256
+SP  - 1
+EP  - 7
+ER  - 
+
+TY  - CONF
+TI  - Technical Program
+T2  - 2024 IEEE 22nd International Conference on Industrial Informatics (INDIN)
+C3  - 2024 IEEE 22nd International Conference on Industrial Informatics (INDIN)
+DA  - 2024/08/18/20
+PY  - 2024
+DO  - 10.1109/INDIN58382.2024.10774326
+SP  - 1
+EP  - 87
+SN  - 2378-363X
+ER  - 
+
+TY  - CONF
+TI  - Consolidated Review Comments
+T2  - 2023 International Conference on Recent Trends in Electronics and Communication (ICRTEC)
+AB  - Consolidated review comments.
+C3  - 2023 International Conference on Recent Trends in Electronics and Communication (ICRTEC)
+DA  - 2023/02/10/11
+PY  - 2023
+DO  - 10.1109/ICRTEC56977.2023.10111922
+SP  - 1
+EP  - 43
+ER  - 
+
+TY  - CONF
+TI  - Author Index
+T2  - 2024 11th International Conference on Electrical Engineering, Computer Science and Informatics (EECSI)
+C3  - 2024 11th International Conference on Electrical Engineering, Computer Science and Informatics (EECSI)
+DA  - 2024/09/26/27
+PY  - 2024
+DO  - 10.1109/EECSI63442.2024.10776204
+SP  - 1
+EP  - 25
+ER  - 
+
+TY  - CONF
+TI  - CCWC 2024 Cover Page
+T2  - 2024 IEEE 14th Annual Computing and Communication Workshop and Conference (CCWC)
+C3  - 2024 IEEE 14th Annual Computing and Communication Workshop and Conference (CCWC)
+DA  - 2024/01/08/10
+PY  - 2024
+DO  - 10.1109/CCWC60891.2024.10427915
+SP  - c1
+EP  - c6
+ER  - 
+
+TY  - CONF
+TI  - Table of Content
+T2  - 2024 11th International Conference on Electrical Engineering, Computer Science and Informatics (EECSI)
+C3  - 2024 11th International Conference on Electrical Engineering, Computer Science and Informatics (EECSI)
+DA  - 2024/09/26/27
+PY  - 2024
+DO  - 10.1109/EECSI63442.2024.10776290
+SP  - 1
+EP  - 8
+ER  - 
+
+TY  - CONF
+TI  - ICEAA 2024 Final Program
+T2  - 2024 International Conference on Electromagnetics in Advanced Applications (ICEAA)
+C3  - 2024 International Conference on Electromagnetics in Advanced Applications (ICEAA)
+DA  - 2024/09/02/6
+PY  - 2024
+DO  - 10.1109/ICEAA61917.2024.10701991
+SP  - i
+EP  - xliii
+SN  - 2766-2284
+ER  - 
+
+TY  - CONF
+TI  - Technical Paper Table of Contents
+T2  - ICASSP 2023 - 2023 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)
+C3  - ICASSP 2023 - 2023 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)
+DA  - 2023/06/04/10
+PY  - 2023
+DO  - 10.1109/ICASSP49357.2023.10096024
+SP  - 12
+EP  - 255
+SN  - 2379-190X
+ER  - 
+
+TY  - CONF
+TI  - NOMS 2024 Cover Page
+T2  - NOMS 2024-2024 IEEE Network Operations and Management Symposium
+C3  - NOMS 2024-2024 IEEE Network Operations and Management Symposium
+DA  - 2024/05/06/10
+PY  - 2024
+DO  - 10.1109/NOMS59830.2024.10575665
+SP  - c1
+EP  - c44
+SN  - 2374-9709
+ER  - 
+
+TY  - CONF
+TI  - CICED 2022 Conference Proceeding
+T2  - 2022 China International Conference on Electricity Distribution (CICED)
+AB  - Presents the front cover, title page, or splash screen of the proceedings record.
+C3  - 2022 China International Conference on Electricity Distribution (CICED)
+DA  - 2022/09/07/8
+PY  - 2022
+DO  - 10.1109/CICED56215.2022.9929149
+SP  - 1
+EP  - 1825
+SN  - 2161-749X
+ER  - 
+

@@ -1,0 +1,587 @@
+TY  - JOUR
+TI  - Dynamics Characteristics and Diagnosis of a Rotor-Bearing's System Through a Dimensional Analysis Approach: An Experimental Study
+AU  - Desavale, R. G.
+T2  - Journal of Computational and Nonlinear Dynamics
+AB  - In this work, vibration characteristic diagnosis of misalignment rotor in loosely fitted bearing is investigated using dimensional analysis (DA) approach. A comprehensive empirical model (EM) using nondimensional parameters is developed to diagnose the rotor-bearing system, and EM model has been validated through an experimental setup developed in-house. Experiments are performed for various defects such as misalignment and bearing looseness. The EM results can be used to monitor the real-time conditions of the rotor-bearing system. This work also presents the effect of misalignment and bearing looseness under various load and speed conditions. Further, work has been extended to predict the combined effect of bearing looseness and misalignment. It has been found that EM model predictions of the vibration amplitude are better when compared to experimental results.
+DA  - 2018/11/20/
+PY  - 2018
+DO  - 10.1115/1.4041828
+DP  - Silverchair
+VL  - 14
+IS  - 014501
+J2  - Journal of Computational and Nonlinear Dynamics
+SN  - 1555-1415
+ST  - Dynamics Characteristics and Diagnosis of a Rotor-Bearing's System Through a Dimensional Analysis Approach
+UR  - https://doi.org/10.1115/1.4041828
+Y2  - 2024/07/16/03:28:06
+L1  - https://asmedigitalcollection.asme.org/computationalnonlinear/article-pdf/14/1/014501/6112582/cnd_014_01_014501.pdf
+L1  - https://asmedigitalcollection.asme.org/computationalnonlinear/article-pdf/14/1/014501/6112582/cnd_014_01_014501.pdf
+L1  - https://asmedigitalcollection.asme.org/computationalnonlinear/article-pdf/14/1/014501/6112582/cnd_014_01_014501.pdf
+L1  - https://asmedigitalcollection-asme-org.ezproxy.uniandes.edu.co/computationalnonlinear/article-pdf/14/1/014501/6112582/cnd_014_01_014501.pdf
+L2  - https://asmedigitalcollection.asme.org/computationalnonlinear/article/14/1/014501/400684/Dynamics-Characteristics-and-Diagnosis-of-a-Rotor?searchresult=1
+L2  - https://asmedigitalcollection.asme.org/computationalnonlinear/article/14/1/014501/400684/Dynamics-Characteristics-and-Diagnosis-of-a-Rotor?searchresult=1
+L2  - https://asmedigitalcollection-asme-org.ezproxy.uniandes.edu.co/computationalnonlinear/article/14/1/014501/400684/Dynamics-Characteristics-and-Diagnosis-of-a-Rotor?searchresult=1
+L4  - https://asmedigitalcollection.asme.org/computationalnonlinear/article-pdf/14/1/014501/6112582/cnd_014_01_014501.pdf
+ER  - 
+
+TY  - JOUR
+TI  - Study on Meta-Modeling Method for Performance Analysis of Digital Power Plant
+AU  - Zhou, Dengji
+AU  - Wei, Tingting
+AU  - Ma, Shixi
+AU  - Zhang, Huisheng
+AU  - Huang, Di
+AU  - Jiang, Ping
+AU  - Lu, Zhenhua
+T2  - Journal of Energy Resources Technology
+AB  - Digital power plant is the theory and method to improve the operating quality of power plant by quantifying, analyzing, controlling, and deciding the physical and working objects of power plants in the whole life cycle. And the foundation of digital power plant is system modeling and performance analysis. However, there are some problems in the process of modeling establishment and performance analysis. For instance, each component has different dimensions and different types of mathematical description, and the data or information used for modeling are defined differently and belong to different enterprises, who do not want to share their information. Meta-modeling is a potential method to solve these problems. It defines the specification to describe different kinds of elements and the relationship between different elements. In this paper, the collaborative modeling and simulation platform for digital power plant has been established based on the meta-modeling method and the performance of the target power plant has been analyzed from different aspects via field data. The meta-modeling method consists of three parts: syntax definition, model development, and algorithm definition. In the comparative study between the meta-model and the traditional model, maximum average errors of the two methods are 8.72% and 4.74%, which reveals the high accuracy of the meta-modeling-based model. The result shows that the modeling and simulation platform for power plants can be used to reduce costs, decrease equipment failure rate, and improve plant output, so as to guarantee the safety and increase economics.
+DA  - 2019/09/25/
+PY  - 2019
+DO  - 10.1115/1.4044765
+DP  - Silverchair
+VL  - 142
+IS  - 042005
+J2  - Journal of Energy Resources Technology
+SN  - 0195-0738
+UR  - https://doi.org/10.1115/1.4044765
+Y2  - 2024/07/16/03:28:08
+L1  - https://asmedigitalcollection.asme.org/energyresources/article-pdf/142/4/042005/6524073/jert_142_4_042005.pdf
+L1  - https://asmedigitalcollection-asme-org.ezproxy.uniandes.edu.co/energyresources/article-pdf/142/4/042005/6524073/jert_142_4_042005.pdf
+L2  - https://asmedigitalcollection.asme.org/energyresources/article/142/4/042005/960609/Study-on-Meta-Modeling-Method-for-Performance?searchresult=1
+L2  - https://asmedigitalcollection.asme.org/energyresources/article/142/4/042005/960609/Study-on-Meta-Modeling-Method-for-Performance?searchresult=1
+L2  - https://asmedigitalcollection-asme-org.ezproxy.uniandes.edu.co/energyresources/article/142/4/042005/960609/Study-on-Meta-Modeling-Method-for-Performance?searchresult=1
+L4  - https://asmedigitalcollection.asme.org/energyresources/article-pdf/142/4/042005/6524073/jert_142_4_042005.pdf
+ER  - 
+
+TY  - JOUR
+TI  - Performance Analysis and Improvement of a Centrifugal Compressor Based on Partial Similarity Principle
+AU  - Xie, Hong
+AU  - Yang, Bo
+AU  - Zhang, Shuyi
+AU  - Song, Moru
+T2  - Journal of Engineering for Gas Turbines and Power
+AB  - In this paper, with the help of partial similarity principle, aerodynamic performance of a centrifugal compressor in a turbocharger unit is analyzed and improved based on a low-speed large-scaled model. In order to achieve flow similarity between the scaled compressor and the prototype, tip clearance and diffuser outlet diameter have been modified further. It is observed from the numerical results that the relative error between the scaled compressor and the prototype is less than 0.8%. It means that the flow field of the scaled compressor is similar to the prototype though the Reynolds number is neglected during the scaling process. Furthermore, the large-scaled impeller has been improved by analyzing the numerical results, and then, the improved impeller is scaled down back to the smaller one by using the partial similarity principle, which geometric dimensions have the same level as those of the prototype but performance is improved obviously. Meanwhile, the experiment results are used to validate the method.
+DA  - 2020/04/29/
+PY  - 2020
+DO  - 10.1115/1.4046925
+DP  - Silverchair
+VL  - 142
+IS  - 051012
+J2  - Journal of Engineering for Gas Turbines and Power
+SN  - 0742-4795
+UR  - https://doi.org/10.1115/1.4046925
+Y2  - 2024/07/16/03:28:10
+L1  - https://asmedigitalcollection.asme.org/gasturbinespower/article-pdf/142/5/051012/6530079/gtp_142_05_051012.pdf
+L1  - https://asmedigitalcollection-asme-org.ezproxy.uniandes.edu.co/gasturbinespower/article-pdf/142/5/051012/6530079/gtp_142_05_051012.pdf
+L2  - https://asmedigitalcollection.asme.org/gasturbinespower/article/142/5/051012/1082628/Performance-Analysis-and-Improvement-of-a?searchresult=1
+L2  - https://asmedigitalcollection.asme.org/gasturbinespower/article/142/5/051012/1082628/Performance-Analysis-and-Improvement-of-a?searchresult=1
+L2  - https://asmedigitalcollection-asme-org.ezproxy.uniandes.edu.co/gasturbinespower/article/142/5/051012/1082628/Performance-Analysis-and-Improvement-of-a?searchresult=1
+L4  - https://asmedigitalcollection.asme.org/gasturbinespower/article-pdf/142/5/051012/6530079/gtp_142_05_051012.pdf
+ER  - 
+
+TY  - JOUR
+TI  - Modeling and Performance Analysis of a Small Horizontal Axis Wind Turbine
+AU  - Ighodaro, Osarobo
+AU  - Akhihiero, David
+T2  - Journal of Energy Resources Technology
+AB  - Wind energy is increasingly becoming a major discussion amongst renewable energy sources due to its sustainability, reduced impact on the environment, and being significantly cheaper than conventional fossil fuels. Researchers have been particularly concerned with studying improved design and optimization using computational technique and experimentation. This research aims at designing blades for a small horizontal axis wind turbine for low Reynolds number using blade element momentum theory and using computational fluid dynamics (cfd) and experiment to analyze its performance. Two airfoils (SG6050 and SG6043) were selected for different regions of the blade span. Four turbulent models were used in predicting its performance. The performance was analyzed for wind speeds between 2 m/s and 7 m/s. Studies showed that the blade is capable of generating power up to 241 W with a power coefficient of 34.3% at a speed of 6 m/s. The computed power coefficient is in good agreement with experimental results of 33.7%.
+DA  - 2020/08/27/
+PY  - 2020
+DO  - 10.1115/1.4047972
+DP  - Silverchair
+VL  - 143
+IS  - 031301
+J2  - Journal of Energy Resources Technology
+SN  - 0195-0738
+UR  - https://doi.org/10.1115/1.4047972
+Y2  - 2024/07/16/03:28:11
+L1  - https://asmedigitalcollection.asme.org/energyresources/article-pdf/143/3/031301/6560528/jert_143_3_031301.pdf
+L1  - https://asmedigitalcollection-asme-org.ezproxy.uniandes.edu.co/energyresources/article-pdf/143/3/031301/6560528/jert_143_3_031301.pdf
+L2  - https://asmedigitalcollection.asme.org/energyresources/article/143/3/031301/1085948/Modeling-and-Performance-Analysis-of-a-Small?searchresult=1
+L2  - https://asmedigitalcollection.asme.org/energyresources/article/143/3/031301/1085948/Modeling-and-Performance-Analysis-of-a-Small?searchresult=1
+L2  - https://asmedigitalcollection-asme-org.ezproxy.uniandes.edu.co/energyresources/article/143/3/031301/1085948/Modeling-and-Performance-Analysis-of-a-Small?searchresult=1
+L4  - https://asmedigitalcollection.asme.org/energyresources/article-pdf/143/3/031301/6560528/jert_143_3_031301.pdf
+ER  - 
+
+TY  - JOUR
+TI  - Performance Analysis and Working Fluid Optimization of a Cogenerative Organic Rankine Cycle Plant
+AU  - Micheli, D.
+AU  - Pinamonti, P.
+AU  - Reini, M.
+AU  - Taccani, R.
+T2  - Journal of Energy Resources Technology
+DA  - 2013/01/10/
+PY  - 2013
+DO  - 10.1115/1.4023098
+DP  - Silverchair
+VL  - 135
+IS  - 021601
+J2  - Journal of Energy Resources Technology
+SN  - 0195-0738
+UR  - https://doi.org/10.1115/1.4023098
+Y2  - 2024/07/16/03:28:12
+L1  - https://asmedigitalcollection.asme.org/energyresources/article-pdf/135/2/021601/6144342/jert_135_2_021601.pdf
+L1  - https://asmedigitalcollection.asme.org/energyresources/article-pdf/135/2/021601/6144342/jert_135_2_021601.pdf
+L1  - https://asmedigitalcollection.asme.org/energyresources/article-pdf/135/2/021601/6144342/jert_135_2_021601.pdf
+L1  - https://asmedigitalcollection-asme-org.ezproxy.uniandes.edu.co/energyresources/article-pdf/135/2/021601/6144342/jert_135_2_021601.pdf
+L2  - https://asmedigitalcollection.asme.org/energyresources/article/135/2/021601/365899/Performance-Analysis-and-Working-Fluid?searchresult=1
+L2  - https://asmedigitalcollection.asme.org/energyresources/article/135/2/021601/365899/Performance-Analysis-and-Working-Fluid?searchresult=1
+L2  - https://asmedigitalcollection-asme-org.ezproxy.uniandes.edu.co/energyresources/article/135/2/021601/365899/Performance-Analysis-and-Working-Fluid?searchresult=1
+L4  - https://asmedigitalcollection.asme.org/energyresources/article-pdf/135/2/021601/6144342/jert_135_2_021601.pdf
+ER  - 
+
+TY  - JOUR
+TI  - Finite Element and Smoothed Particle Hydrodynamics Modeling of Fluid–Structure Interaction Using a Unified Computational Methodology
+AU  - Challa, Ravi
+AU  - Yim, Solomon C.
+T2  - Journal of Offshore Mechanics and Arctic Engineering
+AB  - This study illustrates a comparison of two numerical methods under a unified computational platform for solving fluid–structure interaction (FSI) problems. The first is an arbitrary Lagrangian–Eulerian (ALE)-based fluid model coupled to a structural finite element (FE) method (ALE-FE/FE), and the second is a smoothed particle hydrodynamics (SPH) method coupled to the same structural FE code (SPH/FE). The predictive capabilities and computational efficiency of both the numerical methods are evaluated and validated against a canonical problem of a rapidly varying flow past an elastic gate for which experimental data are available. In both numerical solutions, the fluid flow is governed by the Navier–Stokes equation, and the elastic gate is modeled as a flexible structure. Numerical simulation results show that the ALE-FE/FE continuum approach not only captures the dynamic behavior properly but also predicts the water-free surface profiles and the elastic gate deformations accurately. On the other hand, the coupled purely Lagrangian approach of the SPH/FE under an identical computational platform is found to be less accurate and efficient in predicting the dynamics of the elastic gate motion and the water-free surface profiles.
+DA  - 2018/06/13/
+PY  - 2018
+DO  - 10.1115/1.4038939
+DP  - Silverchair
+VL  - 140
+IS  - 061801
+J2  - Journal of Offshore Mechanics and Arctic Engineering
+SN  - 0892-7219
+UR  - https://doi.org/10.1115/1.4038939
+Y2  - 2024/07/16/03:28:28
+L1  - https://asmedigitalcollection.asme.org/offshoremechanics/article-pdf/140/6/061801/6248856/omae_140_06_061801.pdf
+L1  - https://asmedigitalcollection-asme-org.ezproxy.uniandes.edu.co/offshoremechanics/article-pdf/140/6/061801/6248856/omae_140_06_061801.pdf
+L2  - https://asmedigitalcollection.asme.org/offshoremechanics/article/140/6/061801/472644/Finite-Element-and-Smoothed-Particle-Hydrodynamics?searchresult=1
+L2  - https://asmedigitalcollection.asme.org/offshoremechanics/article/140/6/061801/472644/Finite-Element-and-Smoothed-Particle-Hydrodynamics?searchresult=1
+L2  - https://asmedigitalcollection-asme-org.ezproxy.uniandes.edu.co/offshoremechanics/article/140/6/061801/472644/Finite-Element-and-Smoothed-Particle-Hydrodynamics?searchresult=1
+L4  - https://asmedigitalcollection.asme.org/offshoremechanics/article-pdf/140/6/061801/6248856/omae_140_06_061801.pdf
+ER  - 
+
+TY  - JOUR
+TI  - Lab-Scale Experimental Characterization and Dynamic Scaling Assessment for Closed-Loop Crosswind Flight of Airborne Wind Energy Systems
+AU  - Cobb, Mitchell
+AU  - Deodhar, Nihar
+AU  - Vermillion, Christopher
+T2  - Journal of Dynamic Systems, Measurement, and Control
+AB  - This paper presents the experimental validation and dynamic similarity analysis for a lab-scale version of an airborne wind energy (AWE) system executing closed-loop motion control. Execution of crosswind flight patterns, achieved in this work through the asymmetric motion of three tethers, enables dramatic increases in energy generation compared with stationary operation. Achievement of crosswind flight in the lab-scale experimental framework described herein allows for rapid, inexpensive, and dynamically scalable characterization of new control algorithms without recourse to expensive full-scale prototyping. We first present the experimental setup, then derive dynamic scaling relationships necessary for the lab-scale behavior to match the full-scale behavior. We then validate dynamic equivalence of crosswind flight over a range of different scale models of the Altaeros Buoyant airborne turbine (BAT). This work is the first example of successful lab-scale control and measurement of crosswind motion for an AWE system across a range of flow speeds and system scales. The results demonstrate that crosswind flight can achieve significantly more power production than stationary operation, while also validating dynamic scaling laws under closed-loop control.
+DA  - 2018/01/16/
+PY  - 2018
+DO  - 10.1115/1.4038650
+DP  - Silverchair
+VL  - 140
+IS  - 071005
+J2  - Journal of Dynamic Systems, Measurement, and Control
+SN  - 0022-0434
+UR  - https://doi.org/10.1115/1.4038650
+Y2  - 2024/07/16/03:28:36
+L1  - https://asmedigitalcollection.asme.org/dynamicsystems/article-pdf/140/7/071005/6025712/ds_140_07_071005.pdf
+L1  - https://asmedigitalcollection.asme.org/dynamicsystems/article-pdf/140/7/071005/6025712/ds_140_07_071005.pdf
+L1  - https://asmedigitalcollection.asme.org/dynamicsystems/article-pdf/140/7/071005/6025712/ds_140_07_071005.pdf
+L1  - https://asmedigitalcollection-asme-org.ezproxy.uniandes.edu.co/dynamicsystems/article-pdf/140/7/071005/6025712/ds_140_07_071005.pdf
+L2  - https://asmedigitalcollection.asme.org/dynamicsystems/article/140/7/071005/384762/Lab-Scale-Experimental-Characterization-and?searchresult=1
+L2  - https://asmedigitalcollection.asme.org/dynamicsystems/article/140/7/071005/384762/Lab-Scale-Experimental-Characterization-and?searchresult=1
+L2  - https://asmedigitalcollection-asme-org.ezproxy.uniandes.edu.co/dynamicsystems/article/140/7/071005/384762/Lab-Scale-Experimental-Characterization-and?searchresult=1
+L4  - https://asmedigitalcollection.asme.org/dynamicsystems/article-pdf/140/7/071005/6025712/ds_140_07_071005.pdf
+ER  - 
+
+TY  - JOUR
+TI  - Experimental Investigation of Thermal Storage Processes in a Thermocline Tank
+AU  - Valmiki, M. M.
+AU  - Karaki, Wafaa
+AU  - Li, Peiwen
+AU  - Lew, Jon Van
+AU  - Chan, Cholik
+AU  - Stephens, Jake
+T2  - Journal of Solar Energy Engineering
+DA  - 2012/07/05/
+PY  - 2012
+DO  - 10.1115/1.4006962
+DP  - Silverchair
+VL  - 134
+IS  - 041003
+J2  - Journal of Solar Energy Engineering
+SN  - 0199-6231
+UR  - https://doi.org/10.1115/1.4006962
+Y2  - 2024/07/16/03:37:40
+L1  - https://asmedigitalcollection.asme.org/solarenergyengineering/article-pdf/134/4/041003/6322893/041003_1.pdf
+L1  - https://asmedigitalcollection-asme-org.ezproxy.uniandes.edu.co/solarenergyengineering/article-pdf/134/4/041003/6322893/041003_1.pdf
+L2  - https://asmedigitalcollection.asme.org/solarenergyengineering/article/134/4/041003/444617/Experimental-Investigation-of-Thermal-Storage?searchresult=1
+L2  - https://asmedigitalcollection.asme.org/solarenergyengineering/article/134/4/041003/444617/Experimental-Investigation-of-Thermal-Storage?searchresult=1
+L2  - https://asmedigitalcollection-asme-org.ezproxy.uniandes.edu.co/solarenergyengineering/article/134/4/041003/444617/Experimental-Investigation-of-Thermal-Storage?searchresult=1
+L4  - https://asmedigitalcollection.asme.org/solarenergyengineering/article-pdf/134/4/041003/6322893/041003_1.pdf
+ER  - 
+
+TY  - JOUR
+TI  - Numerical Simulation Coupled With MCRT Method to Study the Effect of Plug Diameter and Its Position on Outlet Temperature and the Efficiency of LS-2 Parabolic Trough Collector
+AU  - Karimi Sadaghiyani, Omid
+AU  - pourmahmoud, Nader
+AU  - Mirzaee, Iraj
+T2  - Journal of Solar Energy Engineering
+DA  - 2013/06/25/
+PY  - 2013
+DO  - 10.1115/1.4024475
+DP  - Silverchair
+VL  - 135
+IS  - 041001
+J2  - Journal of Solar Energy Engineering
+SN  - 0199-6231
+UR  - https://doi.org/10.1115/1.4024475
+Y2  - 2024/07/16/03:37:45
+L1  - https://asmedigitalcollection.asme.org/solarenergyengineering/article-pdf/135/4/041001/6324139/sol_135_04_041001.pdf
+L1  - https://asmedigitalcollection.asme.org/solarenergyengineering/article-pdf/135/4/041001/6324139/sol_135_04_041001.pdf
+L1  - https://asmedigitalcollection.asme.org/solarenergyengineering/article-pdf/135/4/041001/6324139/sol_135_04_041001.pdf
+L1  - https://asmedigitalcollection-asme-org.ezproxy.uniandes.edu.co/solarenergyengineering/article-pdf/135/4/041001/6324139/sol_135_04_041001.pdf
+L2  - https://asmedigitalcollection.asme.org/solarenergyengineering/article/135/4/041001/368504/Numerical-Simulation-Coupled-With-MCRT-Method-to?searchresult=1
+L2  - https://asmedigitalcollection.asme.org/solarenergyengineering/article/135/4/041001/368504/Numerical-Simulation-Coupled-With-MCRT-Method-to?searchresult=1
+L2  - https://asmedigitalcollection-asme-org.ezproxy.uniandes.edu.co/solarenergyengineering/article/135/4/041001/368504/Numerical-Simulation-Coupled-With-MCRT-Method-to?searchresult=1
+L4  - https://asmedigitalcollection.asme.org/solarenergyengineering/article-pdf/135/4/041001/6324139/sol_135_04_041001.pdf
+ER  - 
+
+TY  - JOUR
+TI  - A Numerical Analysis Method of Impurity Precipitation on Mesh Wire of Cold Trap in Fast Breeder Reactor
+AU  - Tamura, Akinori
+AU  - Takahashi, Shiro
+AU  - Nakata, Hiroyuki
+AU  - Takota, Akio
+T2  - Journal of Nuclear Engineering and Radiation Science
+AB  - A fast breeder reactor (FBR) is considered as the promising technology in terms of load reduction on the environment, because the FBR has capability to improve usage efficiency of uranium resources and can reduce high-level radioactive waste which needs to be managed for millions of years. A cold trap is one of the important components in the FBR to control the impurity concentration of the liquid sodium. For accurate evaluation of the cold trap performance, we have been proposing the three-dimensional (3D) numerical analysis method of the cold trap. In this method, the evaluation of the impurity precipitation phenomena on the surface of the mesh wire of the cold trap is the key. For this, the numerical analysis method which is based on the lattice kinetic scheme (LKS) has been proposed. In order to apply the LKS to the impurity precipitation simulation of the cold trap, two models (the low Reynolds number model and the impurity precipitation model) have been developed. In this paper, we focused on the validation of these models. To confirm the validity of the low Reynolds number model, the Chapman–Enskog analysis was applied to the low Reynolds number model. As a result, it has been theoretically confirmed that the low Reynolds number model can recover the correct macroscopic equations (incompressible Navier–Stokes equations) with small error. The low Reynolds number model was also validated by the numerical simulation of two-dimensional (2D) channel flow problem with the low Reynolds number conditions which correspond to the actual cold trap conditions. These results have confirmed that the error of the low Reynolds number model is ten times smaller than that of the original LKS. The validity of the impurity precipitation model was investigated by the comparison to the precipitation experiments. In this comparison, the mesh convergence study was also conducted. These results have confirmed that the proposed impurity precipitation model can simulate the impurity precipitation phenomena on the surface of the mesh wire. It has been also confirmed that the proposed impurity precipitation model can simulate the impurity precipitation phenomenon regardless of the cell size which were tested in this investigation.
+DA  - 2018/05/16/
+PY  - 2018
+DO  - 10.1115/1.4039037
+DP  - Silverchair
+VL  - 4
+IS  - 031015
+J2  - Journal of Nuclear Engineering and Radiation Science
+SN  - 2332-8983
+UR  - https://doi.org/10.1115/1.4039037
+Y2  - 2024/07/16/03:37:53
+L1  - https://asmedigitalcollection.asme.org/nuclearengineering/article-pdf/4/3/031015/6518709/ners_004_03_031015.pdf
+L1  - https://asmedigitalcollection.asme.org/nuclearengineering/article-pdf/4/3/031015/6518709/ners_004_03_031015.pdf
+L1  - https://asmedigitalcollection.asme.org/nuclearengineering/article-pdf/4/3/031015/6518709/ners_004_03_031015.pdf
+L1  - https://asmedigitalcollection-asme-org.ezproxy.uniandes.edu.co/nuclearengineering/article-pdf/4/3/031015/6518709/ners_004_03_031015.pdf
+L2  - https://asmedigitalcollection.asme.org/nuclearengineering/article/4/3/031015/368930/A-Numerical-Analysis-Method-of-Impurity?searchresult=1
+L2  - https://asmedigitalcollection.asme.org/nuclearengineering/article/4/3/031015/368930/A-Numerical-Analysis-Method-of-Impurity?searchresult=1
+L2  - https://asmedigitalcollection-asme-org.ezproxy.uniandes.edu.co/nuclearengineering/article/4/3/031015/368930/A-Numerical-Analysis-Method-of-Impurity?searchresult=1
+L4  - https://asmedigitalcollection.asme.org/nuclearengineering/article-pdf/4/3/031015/6518709/ners_004_03_031015.pdf
+ER  - 
+
+TY  - JOUR
+TI  - Dynamic Modeling of Hydrokinetic Energy Extraction
+AU  - Miller, Veronica B.
+AU  - Schaefer, Laura A.
+T2  - Journal of Fluids Engineering
+AB  - The world is facing an imminent energy crisis. In order to sustain our energy supply, it is necessary to advance renewable technologies. Despite this urgency, however, it is paramount to consider the larger environmental effects associated with using renewable resources. Hydropower, in the past, has been seen as a viable resource to examine, given that its basics of mechanical to electrical energy conversion seem to have little effect on the environment. Discrete analysis of dams and in-stream diversion set-ups, although, has shown otherwise. Modifications to river flows and changes in temperature (from increased and decreased flows) cause adverse effects to fish and other marine life because of changes in their adaptive habitat. Recent research has focused on kinetic energy extraction in river flows, which may prove to be more sustainable, as this type of extraction does not involve a large reservoir or large flow modification. The field of hydrokinetic energy extraction is immature; little is known about the devices’ performance in the river environment and their risk of impingement, fouling, and suspension of sediments. The governing principles of hydrokinetic energy extraction are presented, along with a two-dimensional computational fluid dynamics (CFD) model of the system. Power extraction methods are compared and CFD model validation is presented. It is clear that more research is required in hydrokinetic energy extraction with an emphasis toward lower environmental and ecological impacts.
+DA  - 2010/09/23/
+PY  - 2010
+DO  - 10.1115/1.4002431
+DP  - Silverchair
+VL  - 132
+IS  - 091102
+J2  - Journal of Fluids Engineering
+SN  - 0098-2202
+UR  - https://doi.org/10.1115/1.4002431
+Y2  - 2024/07/16/03:37:55
+L1  - https://asmedigitalcollection.asme.org/fluidsengineering/article-pdf/132/9/091102/5685493/091102_1.pdf
+L1  - https://asmedigitalcollection-asme-org.ezproxy.uniandes.edu.co/fluidsengineering/article-pdf/132/9/091102/5685493/091102_1.pdf
+L2  - https://asmedigitalcollection.asme.org/fluidsengineering/article/132/9/091102/410061/Dynamic-Modeling-of-Hydrokinetic-Energy-Extraction?searchresult=1
+L2  - https://asmedigitalcollection.asme.org/fluidsengineering/article/132/9/091102/410061/Dynamic-Modeling-of-Hydrokinetic-Energy-Extraction?searchresult=1
+L2  - https://asmedigitalcollection-asme-org.ezproxy.uniandes.edu.co/fluidsengineering/article/132/9/091102/410061/Dynamic-Modeling-of-Hydrokinetic-Energy-Extraction?searchresult=1
+L4  - https://asmedigitalcollection.asme.org/fluidsengineering/article-pdf/132/9/091102/5685493/091102_1.pdf
+ER  - 
+
+TY  - JOUR
+TI  - Lab-Scale, Closed-Loop Experimental Characterization, Model Refinement, and Validation of a Hydrokinetic Energy-Harvesting Ocean Kite
+AU  - Siddiqui, Ayaz
+AU  - Naik, Kartik
+AU  - Cobb, Mitchell
+AU  - Granlund, Kenneth
+AU  - Vermillion, Chris
+T2  - Journal of Dynamic Systems, Measurement, and Control
+AB  - This paper presents a study wherein we experimentally characterize the dynamics and control system of a lab-scale ocean kite, and then refine, validate, and extrapolate this model for use in a full-scale system. Ocean kite systems, which harvest tidal and ocean current resources through high-efficiency cross-current motion, enable energy extraction with an order of magnitude less material (and cost) than stationary systems with the same rated power output. However, an ocean kite represents a nascent technology that is characterized by relatively complex dynamics and requires sophisticated control algorithms. In order to characterize the dynamics and control of ocean kite systems rapidly, at a relatively low cost, the authors have developed a lab-scale, closed-loop prototyping environment for characterizing tethered systems, whereby 3D printed systems are tethered and flown in a water channel environment. While this system has been shown to be capable of yielding similar dynamic characteristics to some full-scale systems, there are also fundamental limitations to the geometric scales and flow speeds within the water channel environment, making many other real-world scenarios impossible to replicate from the standpoint of dynamic similarity. To address these scenarios, we show how the lab-scale framework is used to refine and validate a scalable dynamic model of a tethered system, which can then be extrapolated to full-scale operation. In this work, we present an extensive case study of this model refinement, validation, and extrapolation on an ocean kite system intended for operation in the Gulf Stream or similar current environments.
+DA  - 2020/08/07/
+PY  - 2020
+DO  - 10.1115/1.4047825
+DP  - Silverchair
+VL  - 142
+IS  - 111005
+J2  - Journal of Dynamic Systems, Measurement, and Control
+SN  - 0022-0434
+UR  - https://doi.org/10.1115/1.4047825
+Y2  - 2024/07/16/03:37:59
+L1  - https://asmedigitalcollection.asme.org/dynamicsystems/article-pdf/142/11/111005/6556248/ds_142_11_111005.pdf
+L1  - https://asmedigitalcollection.asme.org/dynamicsystems/article-pdf/142/11/111005/6556248/ds_142_11_111005.pdf
+L1  - https://asmedigitalcollection-asme-org.ezproxy.uniandes.edu.co/dynamicsystems/article-pdf/142/11/111005/6556248/ds_142_11_111005.pdf
+L2  - https://asmedigitalcollection.asme.org/dynamicsystems/article/142/11/111005/1085365/Lab-Scale-Closed-Loop-Experimental?searchresult=1
+L2  - https://asmedigitalcollection.asme.org/dynamicsystems/article/142/11/111005/1085365/Lab-Scale-Closed-Loop-Experimental?searchresult=1
+L4  - https://asmedigitalcollection.asme.org/dynamicsystems/article-pdf/142/11/111005/6556248/ds_142_11_111005.pdf
+ER  - 
+
+TY  - JOUR
+TI  - Multi-objective Numerical Investigation of a Generic Airblast Injector Design
+AU  - Comer, Adam L.
+AU  - Kipouros, Timoleon
+AU  - Stewart Cant, R.
+T2  - Journal of Engineering for Gas Turbines and Power
+AB  - In combustor design for aero-engines, engineers face multiple opposing objectives with strict constraints. The trend toward lean direct injection (LDI) combustors suggests a growing emphasis on injector design to balance these objectives. Decades of empirical and analytical work have produced low-order methods, including semi-empirical and semi-analytical correlations and models of combustors and their components, but detailed modeling of injector and combustor behavior requires computational fluid dynamics (CFD). In this study, an application of low-order methods and published guidelines yielded generic injector and combustor geometries, as well as CFD boundary conditions of parameterized injector designs. Moreover, semi-empirical correlations combined with a numerical spray combustion solver provided injector design evaluations in terms of pattern factor, thermoacoustic performance, and certain emissions. Automation and parallel coordinate visualization enabled exploration of the dual-swirler airblast injector design space, which is often neglected in published combustor design studies.
+DA  - 2016/03/22/
+PY  - 2016
+DO  - 10.1115/1.4032737
+DP  - Silverchair
+VL  - 138
+IS  - 091501
+J2  - Journal of Engineering for Gas Turbines and Power
+SN  - 0742-4795
+UR  - https://doi.org/10.1115/1.4032737
+Y2  - 2024/07/16/03:38:01
+L1  - https://asmedigitalcollection.asme.org/gasturbinespower/article-pdf/138/9/091501/6169792/gtp_138_09_091501.pdf
+L1  - https://asmedigitalcollection-asme-org.ezproxy.uniandes.edu.co/gasturbinespower/article-pdf/138/9/091501/6169792/gtp_138_09_091501.pdf
+L2  - https://asmedigitalcollection.asme.org/gasturbinespower/article/138/9/091501/374190/Multi-objective-Numerical-Investigation-of-a?searchresult=1
+L2  - https://asmedigitalcollection.asme.org/gasturbinespower/article/138/9/091501/374190/Multi-objective-Numerical-Investigation-of-a?searchresult=1
+L2  - https://asmedigitalcollection-asme-org.ezproxy.uniandes.edu.co/gasturbinespower/article/138/9/091501/374190/Multi-objective-Numerical-Investigation-of-a?searchresult=1
+L4  - https://asmedigitalcollection.asme.org/gasturbinespower/article-pdf/138/9/091501/6169792/gtp_138_09_091501.pdf
+ER  - 
+
+TY  - JOUR
+TI  - Additive Manufacturing of Functionally Graded Material Objects: A Review
+AU  - Zhang, Binbin
+AU  - Jaiswal, Prakhar
+AU  - Rai, Rahul
+AU  - Nelaturi, Saigopal
+T2  - Journal of Computing and Information Science in Engineering
+AB  - Functionally graded materials (FGM) have recently attracted a lot of research attention in the wake of the recent prominence of additive manufacturing (AM) technologies. The continuously varying spatial composition profile of two or more materials affords FGM to possess properties of multiple different materials simultaneously. Emerging AM technologies enable manufacturing complex shapes with customized multifunctional material properties in an additive fashion. In this paper, we focus on providing an overview of research at the intersection of AM techniques and FGM objects. We specifically discuss FGM modeling representation schemes and outline a classification system to classify existing FGM representation methods. We also highlight the key aspects such as the part orientation, slicing, and path planning processes that are essential for fabricating FGM object through the use of multimaterial AM techniques.
+DA  - 2018/07/03/
+PY  - 2018
+DO  - 10.1115/1.4039683
+DP  - Silverchair
+VL  - 18
+IS  - 041002
+J2  - Journal of Computing and Information Science in Engineering
+SN  - 1530-9827
+ST  - Additive Manufacturing of Functionally Graded Material Objects
+UR  - https://doi.org/10.1115/1.4039683
+Y2  - 2024/07/16/03:38:06
+L1  - https://asmedigitalcollection.asme.org/computingengineering/article-pdf/18/4/041002/5998423/jcise_018_04_041002.pdf
+L1  - https://asmedigitalcollection-asme-org.ezproxy.uniandes.edu.co/computingengineering/article-pdf/18/4/041002/5998423/jcise_018_04_041002.pdf
+L2  - https://asmedigitalcollection.asme.org/computingengineering/article/18/4/041002/369013/Additive-Manufacturing-of-Functionally-Graded?searchresult=1
+L2  - https://asmedigitalcollection.asme.org/computingengineering/article/18/4/041002/369013/Additive-Manufacturing-of-Functionally-Graded?searchresult=1
+L2  - https://asmedigitalcollection-asme-org.ezproxy.uniandes.edu.co/computingengineering/article/18/4/041002/369013/Additive-Manufacturing-of-Functionally-Graded?searchresult=1
+L4  - https://asmedigitalcollection.asme.org/computingengineering/article-pdf/18/4/041002/5998423/jcise_018_04_041002.pdf
+ER  - 
+
+TY  - JOUR
+TI  - Cavitation-Induced Unsteady Flow Characteristics in the First Stage of a Centrifugal Charging Pump
+AU  - Zhang, Fan
+AU  - Yuan, Shouqi
+AU  - Fu, Qiang
+AU  - Pei, Ji
+AU  - Böhle, Martin
+AU  - Jiang, Xusong
+T2  - Journal of Fluids Engineering
+AB  - Cavitation is the main factor that causes reliability problems in centrifugal charging pumps (CCPs) in nuclear power plants. In this study, the cavitation-induced unsteady flow characteristics of a CPR1000 CCP were investigated by numerical and experimental methods. The vapor distribution in the impeller, velocity fluctuation, and pressure fluctuation results in the time and frequency domains were considered for several typical monitoring points in the impeller and volute. The pressure fluctuations in the impeller occurred at an impeller rotating frequency of fR and its integer harmonics, whereas those in the volute mainly occurred at an impeller blade-passing frequency of fB and its integer harmonics. The absolute error between the simulated and measured NPSHr was 3.6%, and that between the calculated and measured head was 2.9%, validating the simulation of the cavitation performances of a CCP.
+DA  - 2016/09/20/
+PY  - 2016
+DO  - 10.1115/1.4034362
+DP  - Silverchair
+VL  - 139
+IS  - 011303
+J2  - Journal of Fluids Engineering
+SN  - 0098-2202
+UR  - https://doi.org/10.1115/1.4034362
+Y2  - 2024/07/16/03:43:05
+L1  - https://asmedigitalcollection.asme.org/fluidsengineering/article-pdf/139/1/011303/6198951/fe_139_01_011303.pdf
+L1  - https://asmedigitalcollection-asme-org.ezproxy.uniandes.edu.co/fluidsengineering/article-pdf/139/1/011303/6198951/fe_139_01_011303.pdf
+L2  - https://asmedigitalcollection.asme.org/fluidsengineering/article/139/1/011303/373048/Cavitation-Induced-Unsteady-Flow-Characteristics?searchresult=1
+L2  - https://asmedigitalcollection.asme.org/fluidsengineering/article/139/1/011303/373048/Cavitation-Induced-Unsteady-Flow-Characteristics?searchresult=1
+L2  - https://asmedigitalcollection-asme-org.ezproxy.uniandes.edu.co/fluidsengineering/article/139/1/011303/373048/Cavitation-Induced-Unsteady-Flow-Characteristics?searchresult=1
+L4  - https://asmedigitalcollection.asme.org/fluidsengineering/article-pdf/139/1/011303/6198951/fe_139_01_011303.pdf
+ER  - 
+
+TY  - JOUR
+TI  - Micropower Generation Using Cross-Flow Instabilities: A Review of the Literature and Its Implications
+AU  - Daqaq, Mohammed F.
+AU  - Bibo, Amin
+AU  - Akhtar, Imran
+AU  - Alhadidi, Ali H.
+AU  - Panyam, Meghashyam
+AU  - Caldwell, Benjamin
+AU  - Noel, Jamie
+T2  - Journal of Vibration and Acoustics
+AB  - Emergence of increasingly smaller electromechanical systems with submilli-Watt power consumption led to the development of scalable micropower generators (MPGs) that harness ambient energy to provide electrical power on a very small scale. A flow MPG is one particular type which converts the momentum of an incident flow into electrical output. Traditionally, flow energy is harnessed using rotary-type generators whose performance has been shown to drop as their size decreases. To overcome this issue, oscillating flow MPGs were proposed. Unlike rotary-type generators which rely upon a constant aerodynamic force to produce a deflection or rotation, oscillating flow MPGs take advantage of cross-flow instabilities to provide a periodic forcing which can be used to transform the momentum of the moving fluid into mechanical motion. The mechanical motion is then transformed into electricity using an electromechanical transduction element. The purpose of this review article is to summarize important research carried out during the past decade on flow micropower generation using cross-flow instabilities. The summarized research is categorized according to the different instabilities used to excite mechanical motion: galloping, flutter, vortex shedding, and wake-galloping. Under each category, the fundamental mechanism responsible for the instability is explained, and the basic mathematical equations governing the motion of the generator are presented. The main design parameters affecting the performance of the generator are identified, and the pros and cons of each method are highlighted. Possible directions of future research which could help to improve the efficacy of flow MPGs are also discussed.
+DA  - 2019/02/13/
+PY  - 2019
+DO  - 10.1115/1.4042521
+DP  - Silverchair
+VL  - 141
+IS  - 030801
+J2  - Journal of Vibration and Acoustics
+SN  - 1048-9002
+ST  - Micropower Generation Using Cross-Flow Instabilities
+UR  - https://doi.org/10.1115/1.4042521
+Y2  - 2024/07/16/03:43:23
+L1  - https://asmedigitalcollection.asme.org/vibrationacoustics/article-pdf/141/3/030801/6422209/vib_141_03_030801.pdf
+L1  - https://asmedigitalcollection.asme.org/vibrationacoustics/article-pdf/141/3/030801/6422209/vib_141_03_030801.pdf
+L1  - https://asmedigitalcollection.asme.org/vibrationacoustics/article-pdf/141/3/030801/6422209/vib_141_03_030801.pdf
+L1  - https://asmedigitalcollection-asme-org.ezproxy.uniandes.edu.co/vibrationacoustics/article-pdf/141/3/030801/6422209/vib_141_03_030801.pdf
+L2  - https://asmedigitalcollection.asme.org/vibrationacoustics/article/141/3/030801/472471/Micropower-Generation-Using-Cross-Flow?searchresult=1
+L2  - https://asmedigitalcollection.asme.org/vibrationacoustics/article/141/3/030801/472471/Micropower-Generation-Using-Cross-Flow?searchresult=1
+L2  - https://asmedigitalcollection-asme-org.ezproxy.uniandes.edu.co/vibrationacoustics/article/141/3/030801/472471/Micropower-Generation-Using-Cross-Flow?searchresult=1
+L4  - https://asmedigitalcollection.asme.org/vibrationacoustics/article-pdf/141/3/030801/6422209/vib_141_03_030801.pdf
+ER  - 
+
+TY  - JOUR
+TI  - Characterization of a Supersonic Turbine Downstream of a Rotating Detonation Combustor
+AU  - Liu, Z.
+AU  - Braun, J.
+AU  - Paniagua, G.
+T2  - Journal of Engineering for Gas Turbines and Power
+AB  - Rotating detonation combustors (RDCs) offer theoretically a significant total pressure increase, which may result in enhanced cycle efficiency. The fluctuating exhaust of RDC, however, induces low supersonic flow and large flow angle fluctuations at several kHz, which affects the performance of the downstream turbine. In this paper, a numerical methodology is proposed to characterize a supersonic turbine exposed to fluctuations from RDC without any dilution. The inlet conditions of the turbine were extracted from a three-dimensional (3D) unsteady Reynolds-averaged Navier–Stokes simulation of a nozzle attached to a rotating detonation combustor, optimized for minimum flow fluctuations and a mass-flow averaged Mach number of 2 at the nozzle outlet. In a first step, a supersonic turbine able to handle steady Mach 2 inflow was designed based on a method of characteristics solver and total pressure loss was assessed. Afterward, unsteady simulations of eight stator passages exposed to periodic oblique shocks were performed. Total pressure loss was evaluated for several oblique shock frequencies and amplitudes. The unsteady stator outlet profile was extracted and used as inlet condition for the unsteady rotor simulations. Finally, a full stage unsteady simulation was performed to characterize the flow field across the entire turbine stage. Power extraction, airfoil base pressure, and total pressure losses were assessed, which enabled the estimation of the loss mechanisms in supersonic turbine exposed to large unsteady inlet conditions.
+DA  - 2018/10/04/
+PY  - 2018
+DO  - 10.1115/1.4040815
+DP  - Silverchair
+VL  - 141
+IS  - 031501
+J2  - Journal of Engineering for Gas Turbines and Power
+SN  - 0742-4795
+UR  - https://doi.org/10.1115/1.4040815
+Y2  - 2024/07/16/03:43:26
+L1  - https://asmedigitalcollection.asme.org/gasturbinespower/article-pdf/141/3/031501/6182605/gtp_141_03_031501.pdf
+L1  - https://asmedigitalcollection-asme-org.ezproxy.uniandes.edu.co/gasturbinespower/article-pdf/141/3/031501/6182605/gtp_141_03_031501.pdf
+L2  - https://asmedigitalcollection.asme.org/gasturbinespower/article/141/3/031501/366412/Characterization-of-a-Supersonic-Turbine?searchresult=1
+L2  - https://asmedigitalcollection.asme.org/gasturbinespower/article/141/3/031501/366412/Characterization-of-a-Supersonic-Turbine?searchresult=1
+L2  - https://asmedigitalcollection-asme-org.ezproxy.uniandes.edu.co/gasturbinespower/article/141/3/031501/366412/Characterization-of-a-Supersonic-Turbine?searchresult=1
+L4  - https://asmedigitalcollection.asme.org/gasturbinespower/article-pdf/141/3/031501/6182605/gtp_141_03_031501.pdf
+ER  - 
+
+TY  - JOUR
+TI  - Numerical Analysis of Heat Transfer Enhancement in a Parabolic Trough Collector Based on Geometry Modifications and Working Fluid Usage
+AU  - Okonkwo, Eric C.
+AU  - Abid, Muhammad
+AU  - Ratlamwala, Tahir A. H.
+T2  - Journal of Solar Energy Engineering
+AB  - The parabolic trough collector (PTC) is one of the most widely deployed concentrating solar power technology in the world. This study aims at improving the operational efficiency of the commercially available LS-2 solar collector by increasing the convective heat transfer coefficient inside the receiver tube. The two main factors affecting this parameter are the properties of the working fluid and the inner geometry of the receiver tube. An investigation was carried out on six different working fluids: pressurized water, supercritical CO2, Therminol VP-1, and the addition of CuO, Fe3O4, and Al2O3 nanoparticles to Therminol VP-1. Furthermore, the influence of a converging-diverging tube with sine geometry is investigated because this geometry increases the heat transfer surface and enhances turbulent flow within the receiver. The results showed that of all the fluids investigated, the Al2O3/Oil nanofluid provides the best improvement of 0.22% to thermal efficiency, while the modified geometry accounted for a 1.13% increase in efficiency. Other parameters investigated include the exergy efficiency, heat transfer coefficient, outlet temperatures, and pressure drop. The analysis and modeling of a parabolic trough receiver are implemented in engineering equation solver (EES).
+DA  - 2018/05/29/
+PY  - 2018
+DO  - 10.1115/1.4040076
+DP  - Silverchair
+VL  - 140
+IS  - 051009
+J2  - Journal of Solar Energy Engineering
+SN  - 0199-6231
+UR  - https://doi.org/10.1115/1.4040076
+Y2  - 2024/07/16/03:43:29
+L1  - https://asmedigitalcollection.asme.org/solarenergyengineering/article-pdf/140/5/051009/6331203/sol_140_05_051009.pdf
+L1  - https://asmedigitalcollection-asme-org.ezproxy.uniandes.edu.co/solarenergyengineering/article-pdf/140/5/051009/6331203/sol_140_05_051009.pdf
+L2  - https://asmedigitalcollection.asme.org/solarenergyengineering/article/140/5/051009/368300/Numerical-Analysis-of-Heat-Transfer-Enhancement-in?searchresult=1
+L2  - https://asmedigitalcollection.asme.org/solarenergyengineering/article/140/5/051009/368300/Numerical-Analysis-of-Heat-Transfer-Enhancement-in?searchresult=1
+L2  - https://asmedigitalcollection-asme-org.ezproxy.uniandes.edu.co/solarenergyengineering/article/140/5/051009/368300/Numerical-Analysis-of-Heat-Transfer-Enhancement-in?searchresult=1
+L4  - https://asmedigitalcollection.asme.org/solarenergyengineering/article-pdf/140/5/051009/6331203/sol_140_05_051009.pdf
+ER  - 
+
+TY  - JOUR
+TI  - A Novel Style Design of a Permanent-Magnetic Adsorption Mechanism for a Wall-Climbing Robot
+AU  - Fan, Jizhuang
+AU  - Xu, Tian
+AU  - Fang, Qianqian
+AU  - Zhao, Jie
+AU  - Zhu, Yanhe
+T2  - Journal of Mechanisms and Robotics
+AB  - Magnetic adsorption mechanisms are widely used for wall-climbing robots to manipulate a locomotive on the surface of a magnetic conducting metal. However, the reported magnetic adsorption mechanisms are subject to the problems such as the lack of adsorption capability, the weakness of kinematic performance, and the overwhelming detaching force. To solve the problems, a novel style of a permanent-magnetic adsorption mechanism using an electromagnetic method and internal force compensation principle is detailed in this work. Specifically, a permanent magnet, an electromagnet, and a nonlinear spring are configurated to achieve a reliable adsorption function by using the minimal detaching force. Following that, the results obtained from both the finite element analysis and the experiments carried out by using a prototype demonstrated its effectiveness. It does not only have a rapid and controllable adsorption-detachment capacity in reference to the magnetic conducting surface but also has low power consumption, large adsorption force, and reliable and safe performance.
+DA  - 2020/02/18/
+PY  - 2020
+DO  - 10.1115/1.4045655
+DP  - Silverchair
+VL  - 12
+IS  - 035001
+J2  - Journal of Mechanisms and Robotics
+SN  - 1942-4302
+UR  - https://doi.org/10.1115/1.4045655
+Y2  - 2024/07/16/03:43:32
+L1  - https://asmedigitalcollection.asme.org/mechanismsrobotics/article-pdf/12/3/035001/6484764/jmr_12_3_035001.pdf
+L1  - https://asmedigitalcollection.asme.org/mechanismsrobotics/article-pdf/12/3/035001/6484764/jmr_12_3_035001.pdf
+L1  - https://asmedigitalcollection.asme.org/mechanismsrobotics/article-pdf/12/3/035001/6484764/jmr_12_3_035001.pdf
+L2  - https://asmedigitalcollection.asme.org/mechanismsrobotics/article/12/3/035001/1071620/A-Novel-Style-Design-of-a-Permanent-Magnetic?searchresult=1
+L2  - https://asmedigitalcollection-asme-org.ezproxy.uniandes.edu.co/mechanismsrobotics/article/12/3/035001/1071620/A-Novel-Style-Design-of-a-Permanent-Magnetic?searchresult=1
+L4  - https://asmedigitalcollection.asme.org/mechanismsrobotics/article-pdf/12/3/035001/6484764/jmr_12_3_035001.pdf
+ER  - 
+
+TY  - JOUR
+TI  - Solar-Assisted Liquid Desiccant Dehumidification Using Hollow-Fiber and Parallel-Plate Membrane Dehumidifiers: Comparative Analysis
+AU  - Bahaidaraha, Haitham M.
+AU  - Mohamed, Mohand H.
+AU  - Mokheimer, Esmail M. A.
+T2  - Journal of Energy Resources Technology
+AB  - In hot and humid climates, air conditioning is an energy-intensive process due to the latent heat load. A unitary air conditioner system is proposed, here, to reduce the latent heat of the humid air using a liquid desiccant followed by an evaporative cooling system. The heat liberated by the desiccant is removed by a solution to the solution heat exchanger. To restore the concentration of the liquid desiccant, the desiccant solution is regenerated by any low-temperature heat source such as solar energy. In order to make the system compact, the membrane heat exchanger is used for the dehumidifier and regenerator. This paper presents the numerical investigation of heat and mass transfer characteristics of a selected membrane dehumidifier under different climatic parameters. Membrane-based parallel-plate and hollow-fiber exchangers are used for this application. A parallel-plate heat-and-mass exchanger (contactor) is composed of a series of plate-type membrane sheets to form channels. On the other hand, hollow-fiber membranes are packed in a shell to form a shell-and-tube heat-and-mass exchanger. The two streams of both contactors are in a counter parallel flow, separated by micro-porous semi-permeable hydrophobic membranes. In this research, the equations governing the transport of heat and mass between the two streams along with the membrane effect in both contactors are solved numerically. The results are compared at different number-of-transfer units (NTU) on the airside and thermal capacity ratios. It is found that the hollow fiber is more efficient than the parallel plate.
+DA  - 2019/06/28/
+PY  - 2019
+DO  - 10.1115/1.4044020
+DP  - Silverchair
+VL  - 141
+IS  - 121201
+J2  - Journal of Energy Resources Technology
+SN  - 0195-0738
+ST  - Solar-Assisted Liquid Desiccant Dehumidification Using Hollow-Fiber and Parallel-Plate Membrane Dehumidifiers
+UR  - https://doi.org/10.1115/1.4044020
+Y2  - 2024/07/16/03:43:35
+L1  - https://asmedigitalcollection.asme.org/energyresources/article-pdf/141/12/121201/6418207/jert_141_12_121201.pdf
+L1  - https://asmedigitalcollection.asme.org/energyresources/article-pdf/141/12/121201/6418207/jert_141_12_121201.pdf
+L1  - https://asmedigitalcollection.asme.org/energyresources/article-pdf/141/12/121201/6418207/jert_141_12_121201.pdf
+L1  - https://asmedigitalcollection-asme-org.ezproxy.uniandes.edu.co/energyresources/article-pdf/141/12/121201/6418207/jert_141_12_121201.pdf
+L2  - https://asmedigitalcollection.asme.org/energyresources/article/141/12/121201/956069/Solar-Assisted-Liquid-Desiccant-Dehumidification?searchresult=1
+L2  - https://asmedigitalcollection.asme.org/energyresources/article/141/12/121201/956069/Solar-Assisted-Liquid-Desiccant-Dehumidification?searchresult=1
+L2  - https://asmedigitalcollection-asme-org.ezproxy.uniandes.edu.co/energyresources/article/141/12/121201/956069/Solar-Assisted-Liquid-Desiccant-Dehumidification?searchresult=1
+L4  - https://asmedigitalcollection.asme.org/energyresources/article-pdf/141/12/121201/6418207/jert_141_12_121201.pdf
+ER  - 
+
+TY  - JOUR
+TI  - A Multidisciplinary Approach for the Comprehensive Assessment of Integrated Rotorcraft–Powerplant Systems at Mission Level
+AU  - Goulos, Ioannis
+AU  - Ali, Fakhre
+AU  - Tzanidakis, Konstantinos
+AU  - Pachidis, Vassilios
+AU  - d'Ippolito, Roberto
+T2  - Journal of Engineering for Gas Turbines and Power
+DA  - 2014/08/26/
+PY  - 2014
+DO  - 10.1115/1.4028181
+DP  - Silverchair
+VL  - 137
+IS  - 012603
+J2  - Journal of Engineering for Gas Turbines and Power
+SN  - 0742-4795
+UR  - https://doi.org/10.1115/1.4028181
+Y2  - 2024/07/16/03:49:07
+L1  - https://asmedigitalcollection.asme.org/gasturbinespower/article-pdf/137/1/012603/6163697/gtp_137_01_012603.pdf
+L1  - https://asmedigitalcollection-asme-org.ezproxy.uniandes.edu.co/gasturbinespower/article-pdf/137/1/012603/6163697/gtp_137_01_012603.pdf
+L2  - https://asmedigitalcollection.asme.org/gasturbinespower/article/137/1/012603/372782/A-Multidisciplinary-Approach-for-the-Comprehensive?searchresult=1
+L2  - https://asmedigitalcollection.asme.org/gasturbinespower/article/137/1/012603/372782/A-Multidisciplinary-Approach-for-the-Comprehensive?searchresult=1
+L2  - https://asmedigitalcollection.asme.org/gasturbinespower/article/137/1/012603/372782/A-Multidisciplinary-Approach-for-the-Comprehensive?searchresult=1
+L2  - https://asmedigitalcollection.asme.org/gasturbinespower/article/137/1/012603/372782/A-Multidisciplinary-Approach-for-the-Comprehensive?searchresult=1
+L4  - https://asmedigitalcollection.asme.org/gasturbinespower/article-pdf/137/1/012603/6163697/gtp_137_01_012603.pdf
+ER  - 
+
+TY  - JOUR
+TI  - Emerging Challenges of Microactuators for Nanoscale Positioning, Assembly, and Manipulation
+AU  - Sahu, Bijoyraj
+AU  - Taylor, Curtis R.
+AU  - Leang, Kam K.
+T2  - Journal of Manufacturing Science and Engineering
+AB  - The development of manufacturing tools and processes capable of precisely positioning and manipulating nanoscale components and materials is still in its embryonic stage. Microactuators are emerging as important tools capable of precisely positioning and manipulating nanoscale components and materials. This paper provides a summary of the state-of-the-art in the design, fabrication, and application of microactuators for nanoscale manufacturing and assembly. Key characteristics and design models of electrothermal and electrostatic microactuators are described and compared. Specific design requirements for their functionality at the nanoscale are discussed. The results demonstrate the limitations of existing microactuator designs and key challenges associated with their design, modeling, and performance characterization for nanoscale positioning, assembly, and manipulation.
+DA  - 2010/06/14/
+PY  - 2010
+DO  - 10.1115/1.4001662
+DP  - Silverchair
+VL  - 132
+IS  - 030917
+J2  - Journal of Manufacturing Science and Engineering
+SN  - 1087-1357
+UR  - https://doi.org/10.1115/1.4001662
+Y2  - 2024/07/16/03:49:17
+L1  - https://asmedigitalcollection.asme.org/manufacturingscience/article-pdf/132/3/030917/5507446/030917_1.pdf
+L1  - https://asmedigitalcollection.asme.org/manufacturingscience/article-pdf/132/3/030917/5507446/030917_1.pdf
+L1  - https://asmedigitalcollection.asme.org/manufacturingscience/article-pdf/132/3/030917/5507446/030917_1.pdf
+L1  - https://asmedigitalcollection-asme-org.ezproxy.uniandes.edu.co/manufacturingscience/article-pdf/132/3/030917/5507446/030917_1.pdf
+L2  - https://asmedigitalcollection.asme.org/manufacturingscience/article/132/3/030917/434173/Emerging-Challenges-of-Microactuators-for?searchresult=1
+L2  - https://asmedigitalcollection.asme.org/manufacturingscience/article/132/3/030917/434173/Emerging-Challenges-of-Microactuators-for?searchresult=1
+L2  - https://asmedigitalcollection.asme.org/manufacturingscience/article/132/3/030917/434173/Emerging-Challenges-of-Microactuators-for?searchresult=1
+L2  - https://asmedigitalcollection.asme.org/manufacturingscience/article/132/3/030917/434173/Emerging-Challenges-of-Microactuators-for?searchresult=1
+L4  - https://asmedigitalcollection.asme.org/manufacturingscience/article-pdf/132/3/030917/5507446/030917_1.pdf
+ER  - 
+
