@@ -63,9 +63,9 @@ The search strategy is refined using PICO:
 - **Comparison:** no external control group; the search is repeated (2020 and 2024) for internal comparison
 - **Outcomes:** identify the state and trends of DA in software architecture/development
 
+The full PICO strategy is documented in:
 
-
-<!-- --8<-- [pico_strategy.md](http://_vscodecontentref_/8) -->
+--8<-- [pico_strategy.md](http://_vscodecontentref_/8)
 
 ### Search Strings
 
