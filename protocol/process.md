@@ -8,7 +8,7 @@ This section documents the *Systematic Literature Review (SLR)* on *Dimensional 
 
 ## Purpose \& Scope
 
-- **Goal:** identify the current state, applications, tools, contributions, limitations, and gaps related to DA in software architecture/development.
+- **Goal:** identify the current state, applications, tools, contributions, limitations, and gaps related to _DA_ in software architecture/development.
 - **Time window:** searches were executed in two phases: an initial run targeting **2010–2020** and an update targeting **2010–2024**.
 - **Primary sources:** five academic archives were used as the main search venues: **ACM**, **ASME**, **IEEE Xplore**, **ScienceDirect**, and **SpringerLink**.
 
@@ -22,25 +22,27 @@ The _SLR_ is organized into three stages (also represented as BPMN 2.0 diagrams 
 
 1. **Plan:** define and validate the review protocol,
 2. **Execute:** search, screen, and curate the corpus of primary studies,
-3. **Report:** synthesize, map, and quality-check results before final reporting,
+3. **Report:** synthesize, map, and quality-check results before final reporting.
 
 ### Image 1: SLR Method Overview
 
-`<svg viewBox="0 0 900 900" width="300" height="300">`
-    `<!-- SVG content -->`
-    `<image href="img/svg/01 - SLR Method.svg" alt="overall-diagram" />`
-    `<div align="center"><em>`Image 1. SLR Method Overview.`</em></div>`
-`</svg>`
+<img src="../img/svg/01 - SLR Method.svg" alt="overall-diagram" />
+<svg viewBox="0 0 900 900" width="300" height="300">
+    <!-- SVG content -->
+    <image href="../img/svg/01 - SLR Method.svg" alt="overall-diagram" />
+    <div align="center"><em>Image 1. SLR Method Overview.</em></div>
+</svg>
 
 The detailed tasks are in [Image 2](#image-2-slr-process-tasks), and as seen, the decision gates applied between iterations ensure (a) protocol quality, (b) document eligibility, and (c) report quality.
 
 ### Image 2: SLR Process tasks
 
-`<svg viewBox="0 0 900 900" width="300" height="300">`
-    `<!-- SVG content -->`
-    `<image href="img/svg/02 - SLR Process.svg" alt="task-diagram" />`
-    `<div align="center"><em>`Image 2. SLR Process tasks.`</em></div>`
-`</svg>`
+<img src="../img/svg/02 - SLR Process.svg" alt="task-diagram" />
+<svg viewBox="0 0 900 900" width="300" height="300">
+    <!-- SVG content -->
+    <image href="../img/svg/02 - SLR Process.svg" alt="task-diagram" />
+    <div align="center"><em>Image 2. SLR Process tasks.</em></div>
+</svg>
 
 [Back to top](#review-process)
 
@@ -54,30 +56,22 @@ In the planning stage, the protocol is specified and iterated until it satisfies
 
 The protocol is defined through the following artifacts:
 
-- **Research Questions (RQs)** (object **O-01**)
-- **Data Sources & Strategy** (object **O-02**)
+- **Research Questions (RQs)** (object **O-01**, )
+- **Data Sources \& Strategy** (object **O-02**)
 - **Search String(s)** tailored per source (object **O-03**)
 - **Inclusion \& Exclusion Criteria (IC \& EC)** (object **O-04**)
 - **Approved Protocol** after review (object **O-05**)
 
 ### PICO Strategy
 
-The _PICO_ (_Population_, _Intervention_, _Comparison_, _Outcomes_) strategy frames the search using the following elements:
+The _PICO_ (_Population_, _Intervention_, _Comparison_, _Outcomes_) strategy frames the search using **Population** as the target documents, **Intervention** as the content alignment to the RQs, **Comparison** as the internal comparison across search iterations, and **Outcomes** as the expected insights. The full _PICO_ strategy is documented in [PICO Strategy](../protocol/md/pico_strategy.md)
 
-- **Population:** documents between 2010–2020 (updated to 2024).
-- **Intervention:** content aligned to the **RQs**.
-- **Comparison:** no external comparison group; the internal comparison is done by repeating the search in 2020 and 2024.
-- **Outcomes:** identify the state and trends of Dimensional Analysis applied into software architecture/development.
-
-The full PICO strategy is documented in [PICO Strategy](../protocol/md/pico_strategy.md)
-
+<!-- AUTO INSERT -->
 <!-- --8<-- "md/pico_strategy.md:pico-table -->
 
 ### Search Strings
 
-Search queries are adapted to each data source and include relevance sorting and time filters. The repository records the final strings and parameters in:
-
-- [protocol/md/search_string.md](../protocol/md/search_string.md)
+Search queries are adapted to each data source and include relevance sorting and time filters. The repository records the final strings and parameters in the section [Search String](../protocol/md/search_string.md)
 
 ### Inclusion \& Exclusion Criteria
 
