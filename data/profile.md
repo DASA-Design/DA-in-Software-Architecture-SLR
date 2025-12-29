@@ -112,34 +112,34 @@ Visual representations of text analytics in both PNG and SVG formats.
 **PNG Subfolder ([`voyant/img/png/`](voyant/img/png/)):**
 
 PNG images for presentations and reports:
-- [`corpus-bubblelines-compact.png`](voyant/img/png/corpus-bubblelines-compact.png) — Compact bubble line visualization
-- [`corpus-bubblelines-per-term.png`](voyant/img/png/corpus-bubblelines-per-term.png) — Per-term bubble lines
-- [`corpus-bubblelines-summary.png`](voyant/img/png/corpus-bubblelines-summary.png) — Summary bubble lines
-- [`corpus-termlinks-1.png`](voyant/img/png/corpus-termlinks-1.png) / [`corpus-termlinks-2.png`](voyant/img/png/corpus-termlinks-2.png) — Term relationship networks
-- [`corpus-top50-words.png`](voyant/img/png/corpus-top50-words.png) — Top 50 most frequent words visualization
-- [`custom-word-trends-1.png`](voyant/img/png/custom-word-trends-1.png) / [`custom-word-trends-2.png`](voyant/img/png/custom-word-trends-2.png) — Custom term trends (2 parts)
-- [`default-word-trends-1.png`](voyant/img/png/default-word-trends-1.png) / [`default-word-trends-2.png`](voyant/img/png/default-word-trends-2.png) — Default trends (2 parts)
-- [`default1-word-trends-1.png`](voyant/img/png/default1-word-trends-1.png) / [`default1-word-trends-2.png`](voyant/img/png/default1-word-trends-2.png) — Alternative default trends
-- [`document-topics-diagnostics.png`](voyant/img/png/document-topics-diagnostics.png) — Topic modeling diagnostics
-- [`document-topics-digest.png`](voyant/img/png/document-topics-digest.png) — Topic distribution digest
+- [`corpus-bubblelines-compact.png`](voyant/img/png/corpus-bubblelines-compact.png): Compact bubble line visualization
+- [`corpus-bubblelines-per-term.png`](voyant/img/png/corpus-bubblelines-per-term.png): Per-term bubble lines
+- [`corpus-bubblelines-summary.png`](voyant/img/png/corpus-bubblelines-summary.png): Summary bubble lines
+- [`corpus-termlinks-1.png`](voyant/img/png/corpus-termlinks-1.png) / [`corpus-termlinks-2.png`](voyant/img/png/corpus-termlinks-2.png): Term relationship networks
+- [`corpus-top50-words.png`](voyant/img/png/corpus-top50-words.png): Top 50 most frequent words visualization
+- [`custom-word-trends-1.png`](voyant/img/png/custom-word-trends-1.png) / [`custom-word-trends-2.png`](voyant/img/png/custom-word-trends-2.png): Custom term trends (2 parts)
+- [`default-word-trends-1.png`](voyant/img/png/default-word-trends-1.png) / [`default-word-trends-2.png`](voyant/img/png/default-word-trends-2.png): Default trends (2 parts)
+- [`default1-word-trends-1.png`](voyant/img/png/default1-word-trends-1.png) / [`default1-word-trends-2.png`](voyant/img/png/default1-word-trends-2.png): Alternative default trends
+- [`document-topics-diagnostics.png`](voyant/img/png/document-topics-diagnostics.png): Topic modeling diagnostics
+- [`document-topics-digest.png`](voyant/img/png/document-topics-digest.png): Topic distribution digest
 
 **SVG Subfolder ([`voyant/img/svg/`](voyant/img/svg/)):**
 
 Scalable vector graphics for publication-quality visualizations:
-- [`corpus-termlinks-1.svg`](voyant/img/svg/corpus-termlinks-1.svg) / [`corpus-termlinks-2.svg`](voyant/img/svg/corpus-termlinks-2.svg) — Term relationship networks
-- [`corpus-top50-words.svg`](voyant/img/svg/corpus-top50-words.svg) — Top 50 words visualization
+- [`corpus-termlinks-1.svg`](voyant/img/svg/corpus-termlinks-1.svg) / [`corpus-termlinks-2.svg`](voyant/img/svg/corpus-termlinks-2.svg): Term relationship networks
+- [`corpus-top50-words.svg`](voyant/img/svg/corpus-top50-words.svg): Top 50 words visualization
 
 #### 3.3 Markdown Subfolder ([`voyant/md/`](voyant/md/))
 
 Formatted markdown tables and summaries for easy integration into reports:
-- [`corpus-docs-summary.md`](voyant/md/corpus-docs-summary.md) — Summary statistics per document
-- [`corpus-docs-table.md`](voyant/md/corpus-docs-table.md) — Tabular document statistics
-- [`corpus-summary-table.md`](voyant/md/corpus-summary-table.md) — Corpus-level summary table
-- [`corpus-topics-digest.md`](voyant/md/corpus-topics-digest.md) — Topic modeling results digest
-- [`custom-word-trends-table-1.md`](voyant/md/custom-word-trends-table-1.md) — Custom term trends in table format
-- [`default-word-trends-table-1.md`](voyant/md/default-word-trends-table-1.md) — Default trends table (set 1)
-- [`default-word-trends-table-2.md`](voyant/md/default-word-trends-table-2.md) — Default trends table (set 2)
-- [`document-classification.md`](voyant/md/document-classification.md) — Document classification results
+- [`corpus-docs-summary.md`](voyant/md/corpus-docs-summary.md): Summary statistics per document
+- [`corpus-docs-table.md`](voyant/md/corpus-docs-table.md): Tabular document statistics
+- [`corpus-summary-table.md`](voyant/md/corpus-summary-table.md): Corpus-level summary table
+- [`corpus-topics-digest.md`](voyant/md/corpus-topics-digest.md): Topic modeling results digest
+- [`custom-word-trends-table-1.md`](voyant/md/custom-word-trends-table-1.md): Custom term trends in table format
+- [`default-word-trends-table-1.md`](voyant/md/default-word-trends-table-1.md): Default trends table (set 1)
+- [`default-word-trends-table-2.md`](voyant/md/default-word-trends-table-2.md): Default trends table (set 2)
+- [`document-classification.md`](voyant/md/document-classification.md): Document classification results
 
 **Purpose:** Voyant Tools analysis provides evidence-based insights into the thematic structure, terminology patterns, and conceptual relationships within the primary studies corpus. These outputs support:
 - Research Question 1: Current state of DA in software architecture.

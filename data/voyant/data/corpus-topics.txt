@@ -1,4 +1,4 @@
-﻿PART 1
+PART 1
 
 Topic	Term 0	Term 1	Term 2	Term 3	Term 4	Term 5	Term 6	Term 7	Term 8	Term 9
 Topic 0	dimensional	theorem	variables	array	physical	terms	pi	primary	problems	π

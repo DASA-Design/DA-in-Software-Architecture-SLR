@@ -1,4 +1,4 @@
-﻿Title	Words	Types	Ratio	Words/Sentence
+Title	Words	Types	Ratio	Words/Sentence
 Implementation of Buckingham's Pi theorem using Python	5778	1376	0.23814468674281758	25.45374449339207
 PS-03 - Numrich - 2014 - Computer performance analysis and the Pi Theorem	20765	3996	0.1924392005778955	26.897668393782382
 PS-04 - Numrich - 2009 - Computational forces in the SAGE benchmark	9348	2106	0.22528883183568676	26.406779661016948

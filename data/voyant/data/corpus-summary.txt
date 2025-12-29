@@ -1,4 +1,4 @@
-﻿This corpus has 6 documents with 56,296 total words and 7,322 unique word forms. Created about 17 hours ago.
+This corpus has 6 documents with 56,296 total words and 7,322 unique word forms. Created about 17 hours ago.
 
 Document Length: 
 Longest:	  PS-03 - Numrich - 2014… (20765)	 Self-similarity of parall… (10370)	 PS-04 - Numrich - 2009… (9348)	 j.jpdc.2008.02.008 (6789)	 Implementation of Bucking… (5778)

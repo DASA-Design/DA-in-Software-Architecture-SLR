@@ -1,4 +1,4 @@
-﻿Index	machine*	analysis	dimensional	efficiency	parameters
+Index	machine*	analysis	dimensional	efficiency	parameters
 Implementation of Buckingham's Pi theorem using Python	0.0010384	0.0032883	0.0069228	0.0000000	0.0005192
 PS-03 - Numrich - 2014 - Computer performance analysis and the Pi Theorem	0.0031303	0.0044787	0.0022634	0.0016855	0.0022634
 PS-04 - Numrich - 2009 - Computational forces in the SAGE benchmark	0.0081301	0.0037441	0.0024604	0.0050278	0.0025674
