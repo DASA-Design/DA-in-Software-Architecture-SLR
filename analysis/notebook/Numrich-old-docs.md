@@ -1,4 +1,6 @@
-### 🔍 Older Documents Summary and Relation to DA in Software
+# 📚 Numrich Documents
+
+## 🔍 Relevance to DA in Software
 
 | ID    | Document Title                                                                                 | Summary                                                                                                                             | Relation to Numrich's DA Work                                                                                                     | Reason for Exclusion from SLR                                                                                                                    |
 | ----- | ---------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -8,7 +10,7 @@
 | RD-10 | *A Metric Space for Productivity Measurement in Software Development*(2005)                  | Proposes a method to quantify programmer productivity using action-based metrics and time-stamped compiler data.                    | Applies computational action metaphor to software productivity rather than performance or architecture metrics.                   | Does not implement dimensional analysis or derive dimensionless quantities for modeling.                                                         |
 | RD-11 | *Performance Metrics Based on Computational Action*(2004)                                    | Introduces “computational action” as a performance metric and advocates minimizing wasted action to improve computing efficiency. | Foundational paper proposing the action metric; influential for later Numrich work.                                               | Lays conceptual groundwork but does not integrate DA explicitly or construct dimensionless models.                                               |
 
-### One-Sentence Summaries
+## ✅ Summaries
 
 * **RD-04 – *The Computational Energy Spectrum of a Program as It Executes* (2010):** Introduces the concept of a computational energy spectrum to analyse fluctuations in program behaviour, applying a physics-inspired analogy of energy distribution over time.
 * **RD-08 – *A Metric Space for Computer Programs and the Principle of Computational Least Action* (2008):** Proposes a metric space for comparing computer programs based on an action-distance analogy derived from classical mechanics.
@@ -18,6 +20,6 @@
 
 ---
 
-### 🔍  Rationale
+## 🔍 Rationale
 
 These documents collectively represent Robert W. Numrich’s broader theoretical work on computational action and physics-inspired analogies in software performance. While they explore innovative metrics such as energy spectra, action norms, and metric spaces for program comparison, they do not explicitly apply Dimensional Analysis techniques such as the Pi theorem, dimensional matrices, or the formulation of dimensionless groups. As a result, they fall outside the core focus of the SLR, which centers on explicit, validated use of dimensional analysis methods in software development and architecture. Therefore, despite their conceptual contributions, these documents were not included in the final SLR.
