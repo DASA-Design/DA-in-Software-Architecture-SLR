@@ -4,7 +4,7 @@ Supporting materials for a systematic literature review (SLR) on Dimensional Ana
 
 ## 📊 Overview
 
-This repository documents a rigorous three-stage SLR (Plan → Execute → Report) investigating how Dimensional Analysis—traditionally used in physics and engineering—applies to software performance modeling, benchmarking, and system analysis.
+This repository documents a rigorous three-stage SLR (Plan → Execute → Report) investigating how Dimensional Analysis traditionally used in physics and engineering and applies to software performance modeling, benchmarking, and system analysis.
 
 **Review Scope:**
 - **Time Windows:** 2010–2020 (initial) and 2010–2024 (update)
@@ -47,7 +47,7 @@ This repository documents a rigorous three-stage SLR (Plan → Execute → Repor
 
 **Engineering Practices:** Engineers embed DA into Python tooling (SymPy/NumPy) to automate Buckingham Pi Theorem application, decompose execution behavior, and simplify multi-variable performance models.
 
-**Research Gap:** Despite proven utility in 6 primary studies (2008-2022), software architecture lacks dedicated DA toolchains—current approaches repurpose symbolic computation libraries from physical sciences.
+**Research Gap:** Despite proven utility in 6 primary studies (2008-2022), software architecture lacks dedicated DA toolchains; current approaches repurpose symbolic computation libraries from physical sciences.
 
 **Contextual Positioning:** Related work analysis (Mahdavi et al., Wong et al.) reveals software architecture's reliance on informal, heuristic methods for quality attribute trade-offs, reinforcing DA's potential as a formal analytical framework.
 

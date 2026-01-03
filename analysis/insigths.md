@@ -124,7 +124,7 @@ Contains comprehensive analyses of foundational and contextual studies that info
 - Identifies **performance (67%), reliability (28%), cost (31%)** as most addressed QAs.
 - Reveals reliance on **utility functions, metrics, and ad hoc adaptation strategies**.
 - Highlights **absence of dimensional analysis** as a formal tool for trade-off management.
-- **Gap Identified:** While Mahdavi et al. rely on informal modeling, they overlook DA as a viable formal tool—precisely what Numrich's work addresses.
+- **Gap Identified:** While Mahdavi et al. report on other formal and informal modeling, they overlook DA as a viable formal tool.
 
 **Wong's Contribution:**
 
@@ -132,7 +132,7 @@ Contains comprehensive analyses of foundational and contextual studies that info
 - Maps evolution through five temporal stages: foundational theory to domain-specific applications.
 - Identifies **systematic underrepresentation of empirical methods** (8\% or less).
 - Documents **limited formalism in trade-off mechanisms** and **ad hoc feedback loop strategies**.
-- **Gap Identified:** Reveals absence of structured, physics-inspired modeling frameworks—the niche Numrich's DA work fills.
+- **Gap Identified:** Reveals absence of structured, physics-inspired modeling frameworks.
 
 **Key Insight:** Both Mahdavi and Wong document the prevalence of informal, heuristic approaches in software architecture, reinforcing the need for formal analytical methods like DA.
 
@@ -286,7 +286,7 @@ To reproduce the analytical insights:
     - Widespread adoption beyond performance analysis.
 3. **Theoretical Foundation:** Ruzicka's physics-based DA theory directly translates to software performance (Numrich's work), demonstrating universal applicability of similarity theory and scaling laws across domains.
 4. **Practical Validation:** All 6 primary studies provide empirical validation through benchmarks (LINPACK, SAGE) or real systems, demonstrating DA's practical utility beyond theoretical interest.
-5. **Research Opportunity:** Both Mahdavi and Wong identify the need for formal analytical methods in self-adaptive systems and quality attribute trade-off analysis—precisely the gap DA can address.
+5. **Research Opportunity:** Both Mahdavi and Wong identify the need for formal analytical methods in self-adaptive systems and quality attribute trade-off analysis, something DA can address.
 
 ### Future Research Directions
 
